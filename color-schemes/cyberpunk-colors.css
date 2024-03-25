@@ -1,0 +1,25 @@
+/* Cyberpunk 2077 inspired color palette */
+
+@define-color black0 #272932;
+
+@define-color red0 #710100;
+@define-color red1 #FB3048;
+@define-color red2 #FF5048;
+
+@define-color yellow0 #FDF500;
+@define-color yellow1 #CFED58;
+
+@define-color green0 #28C775;
+@define-color cyan0 #1AC5B0;
+@define-color blue0 #5DF4FE;
+@define-color purple0 #9370DB;
+@define-color pink0 #E455AE;
+@define-color magenta0 #CB1DCD;
+
+@define-color text0 #D1C5C0;
+
+@define-color fg0 #331319;
+@define-color fg1 #210E15;
+@define-color fg2 #040A10;
+
+@define-color surface0 #14101F;
