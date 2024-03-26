@@ -3,7 +3,7 @@ author=Mathis Paquet
 comment=A Cyberpunk inspired theme
 x11drag=all
 alt_mnemonic=true
-left_tabs=false
+left_tabs=true
 attach_active_tab=true
 group_toolbar_buttons=true
 spread_progressbar=true
@@ -64,7 +64,7 @@ toolbutton_style=0
 tooltip_blur_radius=0
 tooltip_delay=-1
 translucent_windows=false
-tree_branch_line=false
+tree_branch_line=true
 vertical_spin_indicators=false
 
 [GeneralColors]
