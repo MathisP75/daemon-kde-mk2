@@ -100,12 +100,12 @@ iconless_pushbutton=false
 kinetic_scrolling=false
 lxqtmainmenu_iconsize=0
 middle_click_scroll=false
-no_selection_tint=false
+no_selection_tint=true
 noninteger_translucency=false
 normal_default_pushbutton=false
 single_top_toolbar=false
 style_vertical_toolbars=true
-tint_on_mouseover=100
+tint_on_mouseover=0
 transparent_dolphin_view=false
 transparent_menutitle=false
 transparent_pcmanfm_sidepane=false
@@ -123,8 +123,8 @@ interior.element=button
 indicator.size=9
 text.normal.color=#5DF4FE
 text.focus.color=#5DF4FE
-text.press.color=#272932
-text.toggle.color=#272932
+text.press.color=#5DF4FE
+text.toggle.color=#5DF4FE
 text.shadow=0
 text.margin=0
 text.iconspacing=4
@@ -400,7 +400,7 @@ text.bold=true
 text.italic=true
 
 [ComboBox]
-inherits=PanelButtonCommand
+inherits=LineEdit
 
 [Menu]
 inherits=PanelButtonCommand
