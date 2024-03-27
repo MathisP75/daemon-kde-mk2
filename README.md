@@ -9,6 +9,7 @@ Version 1.0: https://github.com/MathisP75/daemon-dotfiles
 - [ ] Window decorations
 - [ ] Plasma widgets
 - [ ] Icon theme
+- [ ] Wallpapers
 - [ ] GTK theme
 - [ ] Splash screen
 - [ ] Global theme
