@@ -18,6 +18,7 @@ scroll_min_extent=50
 scroll_arrows=false
 combo_as_lineedit=true
 inline_spin_indicators=true
+inline_spin_separator=true
 slider_width=6
 slider_handle_width=16
 slider_handle_length=16
@@ -55,7 +56,7 @@ respect_DE=true
 saturation=1.00
 scrollable_menu=true
 scrollbar_in_view=false
-shadowless_popup=false
+shadowless_popup=true
 small_icon_size=16
 spin_button_width=16
 submenu_delay=250
@@ -78,12 +79,12 @@ dark.color=#171717
 mid.color=#3c3c3c
 highlight.color=#3f67a5
 inactive.highlight.color=#2e4c7a
-text.color=white
-window.text.color=white
-button.text.color=white
+text.color=#5DF4FE
+window.text.color=#5DF4FE
+button.text.color=#5DF4FE
 disabled.text.color=#A0A0A0
 tooltip.text.color=white
-highlight.text.color=white
+highlight.text.color=#5DF4FE
 link.color=#2EB8E6
 link.visited.color=#FF6666
 
@@ -135,8 +136,8 @@ text.margin.left=10
 text.margin.right=0
 text.shadow.xshift=2
 text.shadow.yshift=2
-text.shadow.color=#000000
-text.shadow.alpha=255
+text.shadow.color=#ff0000
+text.shadow.alpha=125
 text.shadow.depth=1
 
 [PanelButtonTool]
@@ -215,16 +216,16 @@ inherits=PanelButtonCommand
 [Tab]
 inherits=PanelButtonCommand
 interior.element=tab
-text.margin.left=6
-text.margin.right=6
-text.margin.top=3
-text.margin.bottom=3
+text.margin.left=0
+text.margin.right=0
+text.margin.top=0
+text.margin.bottom=0
 frame.element=tab
 indicator.element=tab
-frame.top=4
-frame.bottom=4
-frame.left=4
-frame.right=4
+frame.top=10
+frame.bottom=10
+frame.left10
+frame.right=10
 text.press.color=white
 text.toggle.color=white
 min_width=+2
@@ -247,12 +248,21 @@ indicator.size=9
 
 [HeaderSection]
 inherits=PanelButtonCommand
-frame.top=2
-frame.bottom=2
-frame.left=2
-frame.right=2
-text.margin.top=2
-text.margin.bottom=2
+interior.element=header
+frame.element=header
+frame.top=1
+frame.bottom=1
+frame.left=1
+frame.right=1
+text.normal.color=#dfdfdf
+text.focus.color=white
+text.press.color=white
+text.toggle.color=white
+frame.expansion=0
+text.margin.top=0
+text.margin.bottom=0
+text.margin.left=0
+text.margin.right=0
 
 [SizeGrip]
 inherits=PanelButtonCommand
