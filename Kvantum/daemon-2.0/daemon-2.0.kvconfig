@@ -168,10 +168,10 @@ text.bold=true
 [IndicatorSpinBox]
 inherits=PanelButtonCommand
 indicator.element=arrow
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+frame.top=10
+frame.bottom=10
+frame.left=10
+frame.right=10
 indicator.size=9
 
 [RadioButton]
@@ -190,10 +190,10 @@ frame=true
 interior=false
 frame.element=common
 interior.element=common
-frame.top=4
-frame.bottom=4
-frame.left=4
-frame.right=4
+frame.top=10
+frame.bottom=10
+frame.left=10
+frame.right=10
 
 [LineEdit]
 inherits=PanelButtonCommand
@@ -226,8 +226,8 @@ frame.top=10
 frame.bottom=10
 frame.left10
 frame.right=10
-text.press.color=white
-text.toggle.color=white
+text.press.color=#5DF4FE
+text.toggle.color=#5DF4FE
 min_width=+2
 min_height=2.0font
 
