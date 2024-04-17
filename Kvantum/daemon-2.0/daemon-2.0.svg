@@ -21,11 +21,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="3.9999998"
-     inkscape:cx="240.12501"
-     inkscape:cy="1138.5001"
+     inkscape:zoom="8.5937496"
+     inkscape:cx="78.60364"
+     inkscape:cy="91.869095"
      inkscape:window-width="2048"
-     inkscape:window-height="1213"
+     inkscape:window-height="1212"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -4107,10 +4107,10 @@
   </g>
   <g
      id="button-separator"
-     style="fill:#cb1dcd"
+     style="fill:#fdf500"
      transform="translate(-45.853624,-114.08887)">
     <rect
-       style="opacity:1;fill:#cb1dcd;stroke:#5df4fe;stroke-width:0"
+       style="opacity:1;fill:#fdf500;stroke:#5df4fe;stroke-width:0"
        id="rect3"
        width="3.7136359"
        height="17.440968"
@@ -4120,9 +4120,9 @@
   <g
      id="button-separator-bottom"
      transform="translate(-28.158555,-114.08884)"
-     style="fill:#cb1dcd">
+     style="fill:#fdf500">
     <rect
-       style="opacity:1;fill:#cb1dcd;stroke:#5df4fe;stroke-width:0"
+       style="opacity:1;fill:#fdf500;stroke:#5df4fe;stroke-width:0"
        id="rect3-5"
        width="3.7136359"
        height="17.440968"
@@ -4132,9 +4132,9 @@
   <g
      id="button-separator-top"
      transform="translate(-35.657945,-113.20334)"
-     style="fill:#cb1dcd">
+     style="fill:#fdf500">
     <rect
-       style="opacity:1;fill:#cb1dcd;stroke:#5df4fe;stroke-width:0"
+       style="opacity:1;fill:#fdf500;stroke:#5df4fe;stroke-width:0"
        id="rect3-7"
        width="3.7136359"
        height="17.440968"
@@ -7273,4 +7273,20 @@
        style="fill:#272932;stroke-width:1"
        d="m 297.77149,652.63672 v 9.22851 h 6.2627 L 307,658.89943 v -6.26271 z" />
   </g>
+  <path
+     style="fill-rule:evenodd"
+     id="expand-button-normal"
+     d="m 17.50002,64.716549 h 10 v 10 h -10 z" />
+  <path
+     style="fill-rule:evenodd"
+     id="expand-tbutton-normal"
+     d="M 17,80 H 27 V 90 H 17 Z" />
+  <path
+     style="fill-rule:evenodd"
+     id="expand-lineedit-normal"
+     d="M 35,65 H 45 V 75 H 35 Z" />
+  <path
+     style="fill-rule:evenodd"
+     id="expand-itemview-normal"
+     d="m 53.75001,64.7142 h 10 v 10 h -10 z" />
 </svg>
