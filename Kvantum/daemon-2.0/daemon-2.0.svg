@@ -21,15 +21,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="4.5079905"
-     inkscape:cx="194.87619"
-     inkscape:cy="827.41967"
+     inkscape:zoom="8.8366907"
+     inkscape:cx="157.92111"
+     inkscape:cy="477.10168"
      inkscape:window-width="2048"
      inkscape:window-height="1213"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg19"
+     inkscape:current-layer="checkbox-tristate-focused"
      showguides="true">
     <inkscape:grid
        id="grid19"
@@ -521,6 +521,36 @@
      style="color:#000000;fill:#272932;stroke:#5df4fe;stroke-width:1.001"
      id="radio-normal"
      d="m 45.989734,448.90124 a 7.50013,7.50011 0 1 1 -15.0002,0 7.50013,7.50011 0 1 1 15.0002,0 z" />
+  <g
+     id="checkbox-focused">
+    <rect
+       width="15.000229"
+       x="61.884521"
+       y="-485.4653"
+       height="15.000229"
+       id="checkbox-normal-8"
+       transform="scale(1,-1)"
+       style="color:#000000;fill:#272932;stroke:#5df4fe" />
+    <rect
+       width="15.000229"
+       x="61.884521"
+       y="-485.4653"
+       height="15.000229"
+       id="rect8"
+       transform="scale(1,-1)"
+       style="color:#000000;fill:#5df4fe;stroke:none;opacity:0.35" />
+  </g>
+  <g
+     id="radio-focused">
+    <path
+       style="color:#000000;fill:#272932;stroke:#5df4fe;stroke-width:1.001"
+       id="radio-normal-4"
+       d="m 76.884739,448.82445 a 7.50013,7.50011 0 1 1 -15.0002,0 7.50013,7.50011 0 1 1 15.0002,0 z" />
+    <path
+       style="color:#000000;fill:#5df4fe;stroke:none;stroke-width:1.001;opacity:0.35"
+       id="radio-normal-4-5"
+       d="m 76.884739,448.82445 a 7.50013,7.50011 0 1 1 -15.0002,0 7.50013,7.50011 0 1 1 15.0002,0 z" />
+  </g>
   <rect
      width="4"
      x="39.487202"
@@ -794,18 +824,6 @@
          d="m -51.0074,1139.7469 c 0,2.77 -2.23,5 -5,5 v 7.25 h 12.2579 l -0.0079,-12.2531 z" />
     </g>
   </g>
-  <path
-     id="radio-focused"
-     d="m 76.885273,448.90124 a 8.00001,8 0 1 1 -16,0 8.00001,8 0 1 1 16,0 z"
-     style="color:#000000;fill:#272932" />
-  <rect
-     width="16"
-     x="60.885273"
-     y="-486.04193"
-     height="16"
-     id="checkbox-focused"
-     transform="scale(1,-1)"
-     style="color:#000000;fill:#272932;stroke:#272932" />
   <g
      style="color:#000000;fill:#28c775"
      id="g9">
@@ -1089,86 +1107,16 @@
      id="dial-handle"
      d="m 100.0355,975.9647 a 5,5 0 0 1 -10,0 5,5 0 1 1 10,0 z" />
   <g
-     id="radio-checked-focused"
-     transform="matrix(1.0666673,0,0,1.0666673,-235.33363,9.9998218)"
-     style="color:#000000">
-    <path
-       style="fill:#272932;stroke-width:0.819"
-       id="path7234"
-       d="m 665.4759,255.0668 a 4.50781,7.29378 0 0 1 -4.5078,7.29379 4.50781,7.29378 0 0 1 -4.50781,-7.29379 4.50781,7.29378 0 0 1 4.50781,-7.29378 4.50781,7.29378 0 0 1 4.5078,7.29378 z"
-       transform="matrix(1.6637806,0,0,1.0282724,-757.20581,150.22177)" />
-    <path
-       style="fill:#5df4fe;stroke-width:1.274"
-       id="path7236"
-       d="m 665.4759,255.0668 a 4.50781,7.29378 0 0 1 -4.5078,7.29379 4.50781,7.29378 0 0 1 -4.50781,-7.29379 4.50781,7.29378 0 0 1 4.50781,-7.29378 4.50781,7.29378 0 0 1 4.5078,7.29378 z"
-       transform="matrix(1.0398623,0,0,0.64266985,-344.81573,248.57618)" />
-  </g>
-  <g
-     id="checkbox-tristate-focused"
-     transform="matrix(1.2307692,0,0,1.2307692,-226.26292,-126.90699)"
-     style="color:#000000">
-    <rect
-       width="13"
-       x="332.5"
-       y="-498.021"
-       height="13"
-       style="fill:#272932"
-       id="rect7317"
-       transform="scale(1,-1)" />
-    <rect
-       width="9.75"
-       x="334.125"
-       y="-492.73975"
-       height="2.4375"
-       style="fill:#5df4fe"
-       id="rect7319"
-       transform="scale(1,-1)" />
-  </g>
-  <g
-     id="checkbox-checked-focused"
-     transform="matrix(1.0666666,0,0,1.0666666,-110.82343,-257.95803)"
-     style="color:#000000">
-    <rect
-       width="15.000001"
-       x="217.5"
-       y="-697.5"
-       height="15.000001"
-       style="fill:#272932"
-       id="rect7329"
-       transform="scale(1,-1)" />
-    <g
-       style="color:#000000;fill:#5df4fe;fill-rule:evenodd"
-       id="arrow-plus-normal-3-3"
-       transform="matrix(1.6651333,0,0,1.6651333,306.24179,621.73549)">
-      <rect
-         width="1.3107059"
-         x="-6.1123209"
-         y="59.037952"
-         height="9.0084171"
-         id="rect4530-1-3-5-3-67-5"
-         transform="rotate(45)"
-         style="fill:#5df4fe;stroke-width:1" />
-      <rect
-         width="8.984745"
-         x="-9.9049606"
-         y="62.878254"
-         height="1.3278143"
-         id="rect4532-0-2-4-8-5-6"
-         transform="rotate(45)"
-         style="fill:#5df4fe;stroke-width:1" />
-    </g>
-  </g>
-  <g
      id="radio-checked-normal"
      transform="translate(-205.08405,36.401237)"
-     style="color:#000000">
+     style="color:#000000;stroke-width:1.001;stroke-dasharray:none">
     <path
-       style="fill:#272932;stroke:#5df4fe;stroke-width:0.764"
+       style="fill:#272932;stroke:#5df4fe;stroke-width:0.76528827;stroke-dasharray:none"
        id="path5193"
        d="m 665.4759,255.0668 a 4.50781,7.29378 0 0 1 -4.5078,7.29379 4.50781,7.29378 0 0 1 -4.50781,-7.29379 4.50781,7.29378 0 0 1 4.50781,-7.29378 4.50781,7.29378 0 0 1 4.5078,7.29378 z"
        transform="matrix(1.6638071,0,0,1.0282887,-795.22339,150.21769)" />
     <path
-       style="fill:#5df4fe"
+       style="fill:#5df4fe;stroke-width:1.43493834;stroke-dasharray:none"
        id="path6309-3"
        d="m 665.4759,255.0668 a 4.50781,7.29378 0 0 1 -4.5078,7.29379 4.50781,7.29378 0 0 1 -4.50781,-7.29379 4.50781,7.29378 0 0 1 4.50781,-7.29378 4.50781,7.29378 0 0 1 4.5078,7.29378 z"
        transform="matrix(0.88734967,0,0,0.54841192,-282.00981,272.61833)" />
@@ -1208,6 +1156,68 @@
     </g>
   </g>
   <g
+     id="radio-checked-focused"
+     transform="translate(-176.50001,36.499996)"
+     style="color:#000000">
+    <path
+       style="fill:#272932;stroke:#5df4fe;stroke-width:0.764"
+       id="path5193-3"
+       d="m 665.4759,255.0668 a 4.50781,7.29378 0 0 1 -4.5078,7.29379 4.50781,7.29378 0 0 1 -4.50781,-7.29379 4.50781,7.29378 0 0 1 4.50781,-7.29378 4.50781,7.29378 0 0 1 4.5078,7.29378 z"
+       transform="matrix(1.6638071,0,0,1.0282887,-795.22339,150.21769)" />
+    <path
+       style="color:#000000;fill:#5df4fe;stroke:none;stroke-width:0.76375923;stroke-dasharray:none;opacity:0.35"
+       id="path8"
+       d="m 665.4759,255.0668 a 4.50781,7.29378 0 0 1 -4.5078,7.29379 4.50781,7.29378 0 0 1 -4.50781,-7.29379 4.50781,7.29378 0 0 1 4.50781,-7.29378 4.50781,7.29378 0 0 1 4.5078,7.29378 z"
+       transform="matrix(1.6638071,0,0,1.0282887,-795.22339,150.21769)" />
+    <path
+       style="fill:#5df4fe"
+       id="path6309-3-6"
+       d="m 665.4759,255.0668 a 4.50781,7.29378 0 0 1 -4.5078,7.29379 4.50781,7.29378 0 0 1 -4.50781,-7.29379 4.50781,7.29378 0 0 1 4.50781,-7.29378 4.50781,7.29378 0 0 1 4.5078,7.29378 z"
+       transform="matrix(0.88734967,0,0,0.54841192,-282.00981,272.61833)" />
+  </g>
+  <g
+     id="checkbox-checked-focused"
+     transform="translate(-159.63504,-21.859317)"
+     style="color:#000000">
+    <rect
+       width="15.000229"
+       x="279.99988"
+       y="-507.50012"
+       height="15.000229"
+       style="fill:#1e1e1e;stroke:#5df4fe"
+       id="rect5201-0"
+       transform="scale(1,-1)" />
+    <rect
+       width="15.000229"
+       x="279.99988"
+       y="-507.50012"
+       height="15.000229"
+       style="color:#000000;fill:#5df4fe;stroke:none;opacity:0.35"
+       id="rect9"
+       transform="scale(1,-1)" />
+    <g
+       style="fill:#5df4fe;fill-rule:evenodd"
+       id="arrow-plus-normal-3-6"
+       transform="matrix(1.7761421,0,0,1.7761421,374.10179,426.97277)">
+      <rect
+         width="1.3107059"
+         x="-6.1123209"
+         y="59.037952"
+         height="9.0084171"
+         id="rect4530-1-3-5-3-67-3"
+         transform="rotate(45)"
+         style="fill:#5df4fe;stroke-width:1" />
+      <rect
+         width="8.984745"
+         x="-9.9049606"
+         y="62.878254"
+         height="1.3278143"
+         id="rect4532-0-2-4-8-5-2"
+         transform="rotate(45)"
+         style="fill:#5df4fe;stroke-width:1" />
+    </g>
+  </g>
+  <g
      id="checkbox-tristate-normal"
      transform="translate(-34.927801,-54.458084)"
      style="color:#000000">
@@ -1226,6 +1236,35 @@
        height="3"
        style="fill:#5df4fe"
        id="rect7313"
+       transform="scale(1,-1)" />
+  </g>
+  <g
+     id="checkbox-tristate-focused"
+     transform="translate(-11,-54)"
+     style="color:#000000">
+    <rect
+       width="15.000229"
+       x="187.49988"
+       y="-540.00012"
+       height="15.000229"
+       style="fill:#272932;stroke:#5df4fe"
+       id="rect5209-6"
+       transform="scale(1,-1)" />
+    <rect
+       width="15.000229"
+       x="187.49988"
+       y="-540.00012"
+       height="15.000229"
+       style="color:#000000;fill:#5df4fe;stroke:none;opacity:0.35"
+       id="rect6"
+       transform="scale(1,-1)" />
+    <rect
+       width="10"
+       x="190"
+       y="-534"
+       height="3"
+       style="fill:#5df4fe"
+       id="rect7313-7"
        transform="scale(1,-1)" />
   </g>
   <g
@@ -1919,34 +1958,36 @@
      transform="rotate(180,375.87472,805.1247)"
      style="fill:#cb1dcd" />
   <g
-     style="fill-rule:evenodd"
+     style="fill-rule:evenodd;fill:#28c775"
      id="ss-normal-topleft"
      transform="translate(16,79.5)">
     <path
-       style="opacity:0"
+       style="opacity:0;fill:#28c775"
        id="path1497"
        d="m 146,1078.5 v 12 h 12 v -12 h -12 z " />
     <g
-       style="fill:#707070"
+       style="fill:#28c775"
        id="g18">
       <path
          id="path1463"
-         d="m 158,1078.5 c -2.216,0 -4,1.784 -4,4 h 4 z" />
+         d="m 158,1078.5 c -2.216,0 -4,1.784 -4,4 h 4 z"
+         style="fill:#28c775" />
       <path
          id="rect1483"
-         d="m 154,1082.5 h 4 v 8 h -4 z" />
+         d="m 154,1082.5 h 4 v 8 h -4 z"
+         style="fill:#28c775" />
     </g>
   </g>
   <g
-     style="fill-rule:evenodd"
+     style="fill-rule:evenodd;fill:#28c775"
      id="ss-normal-left"
      transform="translate(16,76.5)">
     <path
-       style="opacity:0"
+       style="opacity:0;fill:#28c775"
        id="path1465"
        d="m 146,1093.5 v 12 h 12 v -12 Z " />
     <path
-       style="fill:#707070"
+       style="fill:#28c775"
        id="path1491"
        d="m 154,1093.5 v 12 h 4 v -12 Z " />
   </g>
@@ -1955,25 +1996,29 @@
      height="100%"
      xlink:href="#ss-normal-topleft"
      id="ss-normal-bottomleft"
-     transform="matrix(1,0,0,-1,0,2352)" />
+     transform="matrix(1,0,0,-1,0,2352)"
+     style="fill:#28c775" />
   <use
      width="100%"
      height="100%"
      xlink:href="#ss-normal-topleft"
      id="ss-normal-topright"
-     transform="matrix(-1,0,0,1,348,0)" />
+     transform="matrix(-1,0,0,1,348,0)"
+     style="fill:#28c775" />
   <use
      width="100%"
      height="100%"
      xlink:href="#ss-normal-left"
      id="ss-normal-right"
-     transform="matrix(-1,0,0,1,348,0)" />
+     transform="matrix(-1,0,0,1,348,0)"
+     style="fill:#28c775" />
   <use
      width="100%"
      height="100%"
      xlink:href="#ss-normal-topleft"
      id="ss-normal-bottomright"
-     transform="rotate(180,174,1176)" />
+     transform="rotate(180,174,1176)"
+     style="fill:#28c775" />
   <g
      style="fill-rule:evenodd;fill:#fdf500"
      id="ss-focused-topleft"
