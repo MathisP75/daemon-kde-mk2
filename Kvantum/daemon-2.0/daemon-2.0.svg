@@ -21,15 +21,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="8.8366907"
-     inkscape:cx="157.92111"
-     inkscape:cy="477.10168"
+     inkscape:zoom="5.5723694"
+     inkscape:cx="108.30222"
+     inkscape:cy="939.45673"
      inkscape:window-width="2048"
      inkscape:window-height="1213"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="checkbox-tristate-focused"
+     inkscape:current-layer="svg19"
      showguides="true">
     <inkscape:grid
        id="grid19"
@@ -600,24 +600,24 @@
      id="itemview-focused"
      d="m 43.4872,1190.2621 h 8 v 8 h -8 z" />
   <path
-     style="fill:url(#linearGradient8053)"
+     style="fill:#272932"
      id="titlebar-normal"
      d="m 381.9999,879.42 0,32 32,0 0,-32 z" />
   <path
-     style="fill:url(#linearGradient8038)"
+     style="fill:#ff5048"
      id="titlebar-focused"
      d="m 309.1244,881.5587 0,32 32,0 0,-32 z" />
   <g
      id="dial"
      transform="matrix(0.95744681,0,0,0.95744681,-66.359401,745.92623)"
-     style="fill-rule:evenodd">
+     style="fill-rule:evenodd;fill:#040a10;stroke-width:0.99953333;stroke-dasharray:none">
     <rect
        width="47"
        x="94.934784"
        y="207.36218"
        rx="23.5"
        height="47"
-       style="fill:#14101f;stroke:#ff5048;stroke-width:0.6862;stroke-dasharray:none"
+       style="fill:#040a10;stroke:#ff5048;stroke-width:0.99953333;stroke-dasharray:none"
        id="rect5451-4" />
     <rect
        width="37"
@@ -625,7 +625,7 @@
        y="212.36218"
        rx="18.5"
        height="37"
-       style="fill:#272932"
+       style="fill:#040a10;stroke:#5df4fe;stroke-opacity:1;stroke-width:0.58175555;stroke-dasharray:none"
        id="rect5485-54" />
   </g>
   <g
@@ -1632,7 +1632,7 @@
      x="91"
      y="315.00009"
      height="16"
-     style="fill:#272932"
+     style="fill:#ff5048;opacity:0.35"
      id="progress-pattern-disabled"
      d="m 495.50262,453.85937 -1173.01685,0 m 1176.01685,3 -1173.01685,0 m 1176.01685,3 -1173.01685,0 m 1176.01685,3 -1173.01685,0 m 1164.01685,-9 9,9 m -400.00562,-9 9,9 m -400.00561,-9 9,9 m -400.00562,-9 9,9" />
   <g
@@ -4298,15 +4298,6 @@
        d="m 38.311731,221.99999 v 16 H 39 v -16 z" />
   </g>
   <g
-     id="tab-toggled-6"
-     style="fill:#5df4fe"
-     transform="translate(336.25036,702.00001)">
-    <path
-       style="opacity:0;fill:#5df4fe;fill-opacity:1;fill-rule:evenodd"
-       id="aghg-4-1-8-7-2"
-       d="m 22.5,17.5047 v 32.5 H 55 v -32.5 z" />
-  </g>
-  <g
      style="fill:#5df4fe;fill-rule:evenodd"
      id="tabframe-normal-top"
      transform="rotate(90,-106.96549,663.21158)">
@@ -4376,24 +4367,6 @@
     <path
        style="fill:#5df4fe;fill-opacity:1;fill-rule:evenodd;stroke-width:0.999999"
        id="path23-5-0-5-2-6-9-9-0"
-       d="m 23.500177,48.74636 v 32.500001 h 0.749822 V 48.74636 Z" />
-  </g>
-  <g
-     style="opacity:0;fill:#5df4fe;fill-rule:evenodd"
-     id="tab-toggled-bottom-2"
-     transform="rotate(-90,545.37693,235.37207)">
-    <path
-       style="fill:#5df4fe;fill-opacity:0"
-       id="path21-2-7-4-0-19-3"
-       d="m 21.25,48.7468 v 32.5 h 2.25 c -0.007,-0.13412 0,-0.27049 0,-0.40625 v -31.6875 c 0,-0.13576 -0.007,-0.27213 0,-0.40625 z" />
-    <path
-       style="opacity:0.35;fill:#5df4fe;fill-opacity:1"
-       id="path22-5-0-2-4-4-7"
-       d="m 17.25,17.5 v 32.4999 h 5.25 v -32.5 z"
-       transform="translate(6.25,31.2468)" />
-    <path
-       style="fill:#5df4fe;fill-opacity:1;fill-rule:evenodd;stroke-width:0.999999"
-       id="path23-5-4-4-2-1-7-5"
        d="m 23.500177,48.74636 v 32.500001 h 0.749822 V 48.74636 Z" />
   </g>
   <g
@@ -7343,15 +7316,15 @@
   </g>
   <g
      id="slidercursor-disabled"
-     style="fill:#272932"
+     style="fill:#5df4fe;opacity:0.35"
      transform="translate(25.614255,0.36328)">
     <path
        id="asgfh-3"
-       style="fill:#272932;stroke-width:1"
+       style="fill:#5df4fe;stroke-width:1"
        d="m 294.11133,648.97656 v 16.54883 h 11.23047 l 5.31836,-5.31836 v -11.23047 z m 1.66015,1.66016 H 309 v 8.97656 l -4.25195,4.25195 h -8.97657 z" />
     <path
        id="asgfh-6-7-5"
-       style="fill:#272932;stroke-width:1"
+       style="fill:#5df4fe;stroke-width:1"
        d="m 297.77149,652.63672 v 9.22851 h 6.2627 L 307,658.89943 v -6.26271 z" />
   </g>
   <path
