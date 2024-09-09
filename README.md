@@ -12,4 +12,5 @@ Version 1.0: https://github.com/MathisP75/daemon-dotfiles
 - [ ] Wallpapers
 - [ ] GTK theme
 - [ ] Splash screen
+- [ ] Sound theme
 - [ ] Global theme
