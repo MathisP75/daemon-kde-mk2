@@ -69,6 +69,7 @@ translucent_windows=false
 tree_branch_line=true
 vertical_spin_indicators=false
 center_scrollbar_indicator=true
+no_active_tab_separator=true
 
 [GeneralColors]
 window.color=#210E15
@@ -79,8 +80,8 @@ light.color=#5DF4FE
 mid.light.color=#5DF4FE
 dark.color=#5DF4FE
 mid.color=#5DF4FE
-highlight.color=#3f67a5
-inactive.highlight.color=#2e4c7a
+highlight.color=#FB3048
+inactive.highlight.color=#FDF500
 text.color=#5DF4FE
 window.text.color=#5DF4FE
 button.text.color=#5DF4FE
