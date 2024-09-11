@@ -126,7 +126,7 @@ shadeSortColumn=false
 contrast=0
 
 [WM]
-activeBackground=255,0,0
+activeBackground=216,255,21
 activeBlend=252,252,252
 activeForeground=252,252,252
 inactiveBackground=0,255,0

@@ -22,10 +22,10 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
      inkscape:zoom="2.4326077"
-     inkscape:cx="61.456682"
-     inkscape:cy="351.88575"
+     inkscape:cx="326.60424"
+     inkscape:cy="186.631"
      inkscape:window-width="2048"
-     inkscape:window-height="1229"
+     inkscape:window-height="1211"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1366,16 +1366,16 @@
   <g
      id="resize-grip-normal"
      transform="translate(-33.749999,-61.246839)"
-     style="fill:#ff5048">
+     style="fill:#fb3048">
     <rect
        width="25"
        x="375"
        y="87.5"
        height="25"
-       style="opacity:0;fill:#ff5048"
+       style="opacity:0;fill:#fb3048"
        id="rect5042" />
     <path
-       style="fill:#ff5048"
+       style="fill:#fb3048"
        id="path5044"
        d="m 400,92.5 -20,20 20,0 z" />
   </g>
