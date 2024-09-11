@@ -7,7 +7,7 @@ Version 1.0: https://github.com/MathisP75/daemon-dotfiles
 - [ ] Kvantum theme (WIP)
 - [ ] Color theme (WIP)
 - [ ] Window decorations (WIP)
-- [ ] Konsole color theme
+- [X] Konsole color theme
 - [ ] Kate theme
 - [ ] Plasma widgets
 - [ ] Icon theme
