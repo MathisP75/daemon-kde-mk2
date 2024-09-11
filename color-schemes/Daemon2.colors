@@ -96,11 +96,11 @@ DecorationHover=93,244,254
 ForegroundActive=61,174,233
 ForegroundInactive=161,169,177
 ForegroundLink=29,153,243
-ForegroundNegative=218,68,83
-ForegroundNeutral=246,116,0
+ForegroundNegative=251,48,72
+ForegroundNeutral=253,245,0
 ForegroundNormal=93,244,254
 ForegroundPositive=40,199,117
-ForegroundVisited=155,89,182
+ForegroundVisited=203,29,205
 
 [Colors:Window]
 BackgroundAlternate=0,0,255
