@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "mathispaquet362@gmail.com",
+                "Name": "Mathis Paquet"
+            }
+        ],
+        "Category": "",
+        "Description": "Cyberpunk theme",
+        "EnabledByDefault": true,
+        "Id": "default",
+        "License": "LGPL",
+        "Name": "Daemon-2.0",
+        "Version": "0.1",
+        "Website": "https://github.com/MathisP75/daemon-kde-mk2"
+    },
+    "X-Plasma-API": "5.0"
+}
