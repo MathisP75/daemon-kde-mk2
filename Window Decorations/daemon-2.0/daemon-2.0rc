@@ -13,7 +13,7 @@ InactiveUnfocusedTabColor=120,120,120
 TextShadowOffsetX=0
 TextShadowOffsetY=1
 LeftButtons=XIA
-Shadow=false
+Shadow=true
 Animation=1
 
 [Layout]
@@ -25,10 +25,10 @@ ButtonMarginTop=5
 ButtonSpacing=5
 ButtonWidth=16
 ExplicitButtonSpacer=10
-PaddingBottom=0
-PaddingLeft=0
-PaddingRight=0
-PaddingTop=0
+PaddingBottom=13
+PaddingLeft=13
+PaddingRight=13
+PaddingTop=13
 TitleBorderLeft=15
 TitleBorderRight=1
 TitleEdgeBottom=0
