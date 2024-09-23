@@ -4,12 +4,12 @@ Version 2.0 of the Daemon global theme for KDE Plasma 6.
 Version 1.0: https://github.com/MathisP75/daemon-dotfiles
 
 ## Roadmap
-- [ ] Kvantum theme (WIP)
-- [ ] Color theme (WIP)
+- [X] Kvantum theme
+- [X] Color theme
 - [ ] Window decorations (WIP)
 - [X] Konsole color theme
 - [ ] Kate theme
-- [ ] Plasma widgets
+- [ ] Plasma style (WIP)
 - [ ] Icon theme
 - [ ] Wallpapers
 - [ ] GTK theme
