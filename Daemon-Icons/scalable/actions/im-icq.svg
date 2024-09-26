@@ -48,7 +48,7 @@
   <defs
      id="defs3">
     <style
-       id="current-color-scheme">.ColorScheme-Text{color:#e6e6e6}</style>
+       id="current-color-scheme">.ColorScheme-Text{color:#5DF4FE}</style>
   </defs>
   <g
      id="layer12">
@@ -58,13 +58,13 @@
        transform="rotate(30,2.08,17.2)"
        id="path5"
        inkscape:connector-curvature="0"
-       style="color:#e6e6e6;fill:currentColor" />
+       style="color:#5DF4FE;fill:currentColor" />
     <path
        class="ColorScheme-Text"
        d="M 7.1,9.78 A 6.2,6.2 0 0 0 6,12 c 0,1.67 0.9,3 2,3 1.1,0 2,-1.33 2,-3 A 6.2,6.2 0 0 0 8.9,9.8 2,2 0 0 1 8,10 2,2 0 0 1 7.1,9.78 Z"
        transform="rotate(30,2.08,17.2)"
        id="path7"
        inkscape:connector-curvature="0"
-       style="color:#e6e6e6;opacity:0.3;fill:currentColor" />
+       style="color:#5DF4FE;opacity:0.3;fill:currentColor" />
   </g>
 </svg>

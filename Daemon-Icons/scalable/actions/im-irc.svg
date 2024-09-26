@@ -51,17 +51,17 @@
     <style
        id="current-color-scheme"
        type="text/css">
-   .ColorScheme-Text { color:#e6e6e6; } .ColorScheme-Highlight { color:#4285f4; }
+   .ColorScheme-Text { color:#5DF4FE; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
   </defs>
   <path
-     style="color:#e6e6e6;fill:currentColor"
+     style="color:#5DF4FE;fill:currentColor"
      class="ColorScheme-Text"
      d="m 9.4042969,10 c 0,0 -1.40625,3.91e-4 -1.40625,1.400391 v 4.199218 C 7.9980469,16.375219 8.6363044,17 9.4277344,17 h 3.5703126 l 1.5,2 1.5,-2 h 0.572265 c 0,0 1.427735,-3.91e-4 1.427735,-1.400391 V 11.400391 C 17.998047,10.000391 16.570312,10 16.570312,10 Z"
      id="path5"
      inkscape:connector-curvature="0" />
   <path
-     style="color:#e6e6e6;opacity:0.3;fill:currentColor"
+     style="color:#5DF4FE;opacity:0.3;fill:currentColor"
      class="ColorScheme-Text"
      d="M 7.40625,6 C 7.40625,6 6,6.0003906 6,7.4003906 v 4.1992184 c 0,0.6282 0.4207,1.151679 1,1.330079 V 10.400391 C 7,9.0003906 8.40625,9 8.40625,9 h 7.166016 C 15.572266,9 15.768,9.023537 16,9.085937 V 7.4003906 C 16,6.0003906 14.572266,6 14.572266,6 Z"
      id="path7"

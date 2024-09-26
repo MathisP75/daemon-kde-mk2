@@ -6,11 +6,11 @@ Version 1.0: https://github.com/MathisP75/daemon-dotfiles
 ## Roadmap
 - [X] Kvantum theme
 - [X] Color theme
-- [ ] Window decorations (WIP)
+- [X] Window decorations
 - [X] Konsole color theme
 - [ ] Kate theme
-- [ ] Plasma style (WIP)
-- [ ] Icon theme
+- [X] Plasma style (WIP)
+- [ ] Icon theme (WIP)
 - [ ] Wallpapers
 - [ ] GTK theme
 - [ ] Splash screen

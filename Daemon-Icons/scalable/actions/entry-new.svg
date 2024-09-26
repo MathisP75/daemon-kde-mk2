@@ -48,18 +48,18 @@
   <defs
      id="defs3">
     <style
-       id="current-color-scheme">.ColorScheme-Text{color:#e6e6e6}</style>
+       id="current-color-scheme">.ColorScheme-Text{color:#5DF4FE}</style>
   </defs>
   <path
      class="ColorScheme-Text"
      d="m 10,5 h 4 v 14 h -4 z"
      id="path5"
      inkscape:connector-curvature="0"
-     style="color:#e6e6e6;fill:currentColor" />
+     style="color:#5DF4FE;fill:currentColor" />
   <path
      class="ColorScheme-Text"
      d="m 5,10 h 14 v 4 H 5 Z"
      id="path7"
      inkscape:connector-curvature="0"
-     style="color:#e6e6e6;fill:currentColor" />
+     style="color:#5DF4FE;fill:currentColor" />
 </svg>

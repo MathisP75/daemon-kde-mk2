@@ -49,7 +49,7 @@
   <g
      transform="matrix(0.5,0,0,0.5,-0.04,1.06)"
      id="g6"
-     style="fill:#e6e6e6">
+     style="fill:#5DF4FE">
     <path
        d="M 4.19,12.2 A 0.19,0.19 0 0 0 4,12.4 v 17.4 c 0,0.1 0.08,0.19 0.19,0.19 H 43.95 A 0.19,0.19 0 0 0 44.13,29.8 V 12.4 a 0.19,0.19 0 0 0 -0.18,-0.19 z m 33,2.65 a 2.77,2.77 0 0 1 2.78,2.77 2.77,2.77 0 0 1 -2.77,2.77 2.77,2.77 0 0 1 -2.78,-2.77 2.77,2.77 0 0 1 2.78,-2.77 z"
        id="path2"
@@ -72,5 +72,5 @@
      stroke-miterlimit="1.5"
      ry="0"
      id="rect8"
-     style="fill:none;stroke:#e6e6e6;stroke-width:1.51999998;stroke-linecap:square;stroke-miterlimit:1.5;paint-order:markers fill stroke" />
+     style="fill:none;stroke:#5DF4FE;stroke-width:1.51999998;stroke-linecap:square;stroke-miterlimit:1.5;paint-order:markers fill stroke" />
 </svg>

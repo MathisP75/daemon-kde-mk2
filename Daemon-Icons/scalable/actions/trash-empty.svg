@@ -51,7 +51,7 @@
        id="current-color-scheme" />
   </defs>
   <path
-     style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#e6e6e6;fill-rule:evenodd"
+     style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#5DF4FE;fill-rule:evenodd"
      d="M 8.82,2.3 7.62,3.51 V 4.96 L 1.75,4.98 V 7.1 h 2.14 v 12.82 c 0,0.96 0.81,1.78 1.78,1.77 l 12.72,-0.1 a 1.8,1.8 0 0 0 1.78,-1.77 V 7.1 h 2.08 V 4.92 L 16.38,4.94 V 3.5 L 15.18,2.3 Z M 9.52,4 h 4.96 l 0.2,0.21 V 4.94 L 9.31,4.96 V 4.2 Z M 6,7.1 H 18.02 V 19.12 H 5.99 V 7.1 Z"
      font-weight="400"
      overflow="visible"

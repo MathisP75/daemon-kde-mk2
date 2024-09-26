@@ -52,10 +52,10 @@
      d="M 6.35,0.083 A 6.267,6.267 0 0 0 0.084,6.349 6.267,6.267 0 0 0 6.352,12.617 6.267,6.267 0 0 0 12.619,6.349 6.267,6.267 0 0 0 6.35,0.083 Z M 6.333,1.015 a 5.388,5.388 0 0 1 5.388,5.39 5.388,5.388 0 0 1 -0.4,2.024 h -0.925 l 0.624,0.624 a 5.388,5.388 0 0 1 -0.77,1.04 L 8.588,8.429 h -1.81 l 2.491,2.49 A 5.388,5.388 0 0 1 8.046,11.505 L 4.969,8.43 h -1.81 l 3.357,3.356 A 5.388,5.388 0 0 1 6.333,11.793 5.388,5.388 0 0 1 4.32,11.399 L 1.351,8.429 H 1.343 a 5.388,5.388 0 0 1 -0.4,-2.025 5.388,5.388 0 0 1 5.39,-5.39 z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#e6e6e6" />
+     style="fill:#5DF4FE" />
   <path
      d="M 0.804,6.104 H 2.938 L 3.588,2.856 4.887,7.728 5.861,4.805 6.835,6.753 7.81,6.103 h 4.086"
      id="path4"
      inkscape:connector-curvature="0"
-     style="fill:none;stroke:#e6e6e6;stroke-width:0.32499999;stroke-linecap:round;stroke-linejoin:round" />
+     style="fill:none;stroke:#5DF4FE;stroke-width:0.32499999;stroke-linecap:round;stroke-linejoin:round" />
 </svg>

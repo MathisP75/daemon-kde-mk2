@@ -50,11 +50,11 @@
      d="m 5.22,0.61 a 0.1,0.1 0 0 0 -0.1,0.1 v 3.8 c 0,0.06 0.04,0.1 0.1,0.1 h 11.8 a 0.1,0.1 0 0 0 0.1,-0.1 V 0.72 a 0.1,0.1 0 0 0 -0.1,-0.1 z m -4,5.1 a 0.1,0.1 0 0 0 -0.1,0.1 v 8.7 c 0,0.06 0.04,0.1 0.1,0.1 h 4.01 v -0.56 h 9.09 a 2.98,2.97 0 0 1 2.92,-2.4 2.98,2.97 0 0 1 2.99,2.96 h 0.87 a 0.1,0.1 0 0 0 0.09,-0.1 v -8.7 a 0.1,0.1 0 0 0 -0.1,-0.1 z m 19,8.9 h -3.08 v 2.98 a 2.98,2.97 0 0 0 0.1,0 2.98,2.97 0 0 0 2.99,-2.96 2.98,2.97 0 0 0 0,-0.02 z m -3.08,2.98 a 2.98,2.97 0 0 1 -2.88,-2.96 2.98,2.97 0 0 1 0,-0.02 H 5.23 v 3.96 h 11.9 z m -2.88,-2.98 h 2.88 v -0.56 h -2.82 a 2.98,2.97 0 0 0 -0.06,0.56 z m 3.46,-7.58 a 1.39,1.39 0 0 1 1.39,1.39 1.39,1.39 0 0 1 -1.39,1.39 1.39,1.39 0 0 1 -1.38,-1.4 1.39,1.39 0 0 1 1.38,-1.38 z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#e6e6e6;paint-order:markers fill stroke" />
+     style="fill:#5DF4FE;paint-order:markers fill stroke" />
   <path
      stroke-miterlimit="1.5"
      d="m 18.83,17.27 0.09,-0.05 2.95,5.22 -0.09,0.05 z"
      id="path4"
      inkscape:connector-curvature="0"
-     style="fill:#e6e6e6;stroke:#e6e6e6;stroke-width:1.51999998;stroke-linecap:square;stroke-miterlimit:1.5;paint-order:markers fill stroke" />
+     style="fill:#5DF4FE;stroke:#5DF4FE;stroke-width:1.51999998;stroke-linecap:square;stroke-miterlimit:1.5;paint-order:markers fill stroke" />
 </svg>

@@ -61,11 +61,11 @@
        id="a">
       <stop
          offset="0"
-         stop-color="#e6e6e6"
+         stop-color="#5DF4FE"
          id="stop3" />
       <stop
          offset="1"
-         stop-color="#e6e6e6"
+         stop-color="#5DF4FE"
          stop-opacity="0"
          id="stop5" />
     </linearGradient>
@@ -77,7 +77,7 @@
      inkscape:connector-curvature="0" />
   <g
      id="g18"
-     style="fill:none;stroke:#e6e6e6;stroke-width:1.02999997">
+     style="fill:none;stroke:#5DF4FE;stroke-width:1.02999997">
     <rect
        ry="0"
        rx="0"

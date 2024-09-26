@@ -52,7 +52,7 @@
      d="M 6.34,0.07 A 6.29,6.29 0 0 0 0.05,6.37 6.29,6.29 0 0 0 6.35,12.65 6.29,6.29 0 0 0 12.63,6.36 6.29,6.29 0 0 0 6.34,0.07 Z M 6.32,1 6.33,1.01 a 5.4,5.4 0 0 1 5.4,5.4 5.4,5.4 0 0 1 -5.4,5.41 A 5.4,5.4 0 0 1 0.92,6.42 5.4,5.4 0 0 1 6.32,1 Z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#e6e6e6" />
+     style="fill:#5DF4FE" />
   <text
      style="font-weight:400;font-size:5.64400005px;line-height:1.25;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L';letter-spacing:0;word-spacing:0;stroke-width:0.26499999"
      x="5.3379998"
@@ -66,5 +66,5 @@
      d="M 6.176,2.417 5.464,2.561 V 2.927 L 6.181,2.784 V 5.053 H 5.524 V 5.391 H 7.236 V 5.053 H 6.579 V 2.417 Z M 3.632,6.097 V 6.604 H 9.068 V 6.096 H 3.632 Z M 6.5,7.308 5.267,9.196 v 0.385 h 1.341 v 0.702 H 7.011 V 9.58 H 7.433 V 9.246 H 7.01 V 7.309 H 6.5 Z m 0.107,0.35 V 9.246 H 5.593 L 6.608,7.658 Z"
      id="path6"
      inkscape:connector-curvature="0"
-     style="fill:#e6e6e6;fill-rule:evenodd" />
+     style="fill:#5DF4FE;fill-rule:evenodd" />
 </svg>

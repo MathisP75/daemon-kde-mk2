@@ -50,12 +50,12 @@
   <path
      d="M 19.18,1.39 H 4.83 A 0.55,0.55 0 0 0 4.27,1.95 V 16.3 c 0,0.3 0.25,0.55 0.55,0.55 h 14.35 a 0.55,0.55 0 0 0 0.56,-0.56 V 1.94 A 0.55,0.55 0 0 0 19.18,1.39 Z m -1.66,2.2 v 9.94 H 6.48 V 3.6 H 17.52 Z M 9.55,17.72 A 0.63,0.63 0 0 0 9.1,17.9 l -0.6,0.6 a 0.63,0.63 0 0 0 0,0.89 l 2.46,2.45 0.6,0.6 a 0.63,0.63 0 0 0 0.89,0 l 0.6,-0.6 2.44,-2.45 a 0.63,0.63 0 0 0 0,-0.9 l -0.6,-0.59 a 0.63,0.63 0 0 0 -0.88,0 l -2,2 -2.02,-2 A 0.63,0.63 0 0 0 9.55,17.72 Z"
      overflow="visible"
-     style="color:#000000;overflow:visible;fill:#e6e6e6;marker:none"
+     style="color:#000000;overflow:visible;fill:#5DF4FE;marker:none"
      id="path2"
      inkscape:connector-curvature="0" />
   <path
      d="M 6.56,13.4 17.44,13.3 13.39,9.25 11.24,11.98 8.82,10.04 Z"
      id="path4"
      inkscape:connector-curvature="0"
-     style="opacity:0.6;fill:#e6e6e6" />
+     style="opacity:0.6;fill:#5DF4FE" />
 </svg>

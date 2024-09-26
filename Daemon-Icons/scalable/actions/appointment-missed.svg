@@ -47,7 +47,7 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="svg6" />
   <path
-     style="color:#000000;font-weight:400;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#e6e6e6;fill-opacity:0.3"
+     style="color:#000000;font-weight:400;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#5DF4FE;fill-opacity:0.3"
      overflow="visible"
      font-weight="400"
      d="M 11.3,1 A 10.33,10.33 0 0 0 1,11.32 10.33,10.33 0 0 0 13.37,21.42 V 18.6 a 7.66,7.66 0 0 1 -2.06,0.29 7.54,7.54 0 0 1 -7.57,-7.56 c 0,-4.2 3.37,-7.57 7.57,-7.57 a 7.54,7.54 0 0 1 7.27,9.63 h 2.83 A 10.31,10.31 0 0 0 11.31,1 Z m 4.08,5.5 a 0.69,0.69 0 0 0 -0.1,0.02 V 6.53 A 0.69,0.69 0 0 0 14.94,6.74 L 11.3,10.4 9,8.12 A 0.69,0.69 0 1 0 8.06,9.07 l 2.75,2.74 a 0.69,0.69 0 0 0 0.94,0 L 15.9,7.7 A 0.69,0.69 0 0 0 15.4,6.52 Z"
@@ -58,5 +58,5 @@
      d="m 20.77,14.97 -1.92,1.96 -1.97,-1.92 -1.92,1.96 1.97,1.93 -1.93,1.96 1.96,1.92 1.92,-1.96 1.97,1.92 1.92,-1.96 -1.97,-1.92 1.92,-1.96 z"
      id="path4"
      inkscape:connector-curvature="0"
-     style="color:#bebebe;overflow:visible;fill:#e6e6e6" />
+     style="color:#bebebe;overflow:visible;fill:#5DF4FE" />
 </svg>

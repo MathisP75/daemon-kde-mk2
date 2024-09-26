@@ -53,11 +53,11 @@
        id="a">
       <stop
          offset="0"
-         stop-color="#e6e6e6"
+         stop-color="#5DF4FE"
          id="stop2" />
       <stop
          offset="1"
-         stop-color="#e6e6e6"
+         stop-color="#5DF4FE"
          stop-opacity="0"
          id="stop4" />
     </linearGradient>

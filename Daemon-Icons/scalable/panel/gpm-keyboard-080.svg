@@ -51,10 +51,10 @@
      d="M 22.1,4.96 H 1.9 v 14.06 l 20.2,0.02 z M 11.03,7.97 h 2 v 2.01 h -2 z m 0,3.02 h 2 V 13 h -2 z M 8,7.97 h 2.01 v 2.01 h -2 z m 0,3.02 h 2.01 V 13 h -2 z M 7,13 H 5 V 10.99 H 7 Z M 7,9.98 H 5 v -2 h 2 z m 9.04,7.04 H 8.01 v -2.01 h 8.04 z m 0,-4.02 h -2 v -2.01 h 2 z m 0,-3.02 h -2 v -2 h 2 z M 19.07,13 h -2.01 v -2.01 h 2.01 z m 0,-3.02 h -2.01 v -2 h 2.01 z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#e6e6e6;fill-opacity:0.3" />
+     style="fill:#5DF4FE;fill-opacity:0.3" />
   <path
      d="m 1.9,4.96 v 14.06 l 20.2,0.02 -0.04,-6.07 -2.99,-3 V 10 H 17.06 V 7.98 h 0.01 l -3,-3 z M 5,7.98 h 2 v 2 H 5 Z m 3.01,0 h 2.01 v 2 h -2 z m 3.02,0 h 2 v 2 h -2 z m 3.01,0 h 2.01 v 2 h -2 z M 5,10.99 H 7 V 13 H 5 Z m 3.01,0 h 2.01 V 13 h -2 z m 3.02,0 h 2 V 13 h -2 z m 3.01,0 h 2.01 V 13 h -2 z m 3.02,0 h 2.01 V 13 h -2.01 z m -9.05,4.02 h 8.04 v 2.01 H 8.01 Z"
      id="path4"
      inkscape:connector-curvature="0"
-     style="fill:#e6e6e6" />
+     style="fill:#5DF4FE" />
 </svg>
