@@ -29,7 +29,7 @@
      id="defs8" />
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -48,7 +48,7 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="svg4" />
   <path
-     style="color:#4d4d4d;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#808080"
+     style="color:#4d4d4d;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#5DF4FE"
      d="M 12.015,2 A 10,10 0 0 0 2,11.969 10,10 0 0 0 11.954,22 L 12,12 Z m 2.485,8.75 v 2.5 H 22 v -2.5 z"
      overflow="visible"
      id="path2"

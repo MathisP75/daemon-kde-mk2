@@ -28,7 +28,7 @@
      id="defs12" />
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -48,7 +48,7 @@
      inkscape:current-layer="svg8" />
   <g
      id="g6"
-     style="fill:#808080">
+     style="fill:#5DF4FE">
     <path
        d="M 11.37,2 A 9.4,9.4 0 0 0 2,11.38 9.4,9.4 0 0 0 13.25,20.57 V 17.99 A 6.97,6.97 0 0 1 11.37,18.25 6.86,6.86 0 0 1 4.5,11.38 6.85,6.85 0 0 1 11.37,4.5 6.86,6.86 0 0 1 18,13.25 h 2.57 A 9.37,9.37 0 0 0 11.37,2 Z m 3.71,5 a 0.63,0.63 0 0 0 -0.09,0.02 0.63,0.63 0 0 0 -0.31,0.2 L 11.36,10.53 9.29,8.47 A 0.63,0.63 0 1 0 8.43,9.33 l 2.5,2.5 a 0.63,0.63 0 0 0 0.86,0 L 15.54,8.08 A 0.63,0.63 0 0 0 15.08,7.01 Z"
        font-weight="400"

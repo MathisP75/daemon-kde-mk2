@@ -25,7 +25,7 @@
   </defs>
   <path
      class="ColorScheme-Highlight"
-     style="fill:currentColor"
+     style="fill:#5DF4FE"
      d="M 6,0 C 4.892,0 4,0.892 4,2 v 44 c 0,1.108 0.892,2 2,2 h 36 c 1.108,0 2,-0.892 2,-2 V 2 C 44,0.892 43.108,0 42,0 Z m 4,3 h 16 v 18 l 4,-4 4,4 V 3 h 6 c 0.554,0 1,0.446 1,1 v 40 c 0,0.554 -0.446,1 -1,1 H 10 Z"
      id="rect815"
      inkscape:connector-curvature="0"

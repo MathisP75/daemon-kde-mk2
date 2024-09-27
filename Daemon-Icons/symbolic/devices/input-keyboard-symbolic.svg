@@ -30,7 +30,7 @@
      id="defs8" />
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -52,5 +52,5 @@
      d="M 5.847,1.312 H 0.503 v 3.72 L 5.847,5.038 Z M 2.918,2.109 h 0.53 v 0.532 h -0.53 z m 0,0.799 h 0.53 V 3.44 H 2.918 Z M 2.117,2.108 H 2.648 V 2.641 H 2.12 Z m 0,0.8 H 2.648 V 3.44 H 2.12 Z M 1.852,3.44 H 1.322 V 2.908 h 0.53 z m 0,-0.8 H 1.322 V 2.111 h 0.53 z M 4.244,4.503 H 2.119 V 3.971 h 2.128 z m 0,-1.063 H 3.714 V 2.908 h 0.53 z m 0,-0.8 H 3.714 V 2.111 h 0.53 z m 0.802,0.8 H 4.514 V 2.908 h 0.532 z m 0,-0.8 H 4.514 V 2.111 h 0.532 z"
      id="path2"
      inkscape:connector-curvature="0"
-     style="fill:#808080" />
+     style="fill:#5DF4FE" />
 </svg>

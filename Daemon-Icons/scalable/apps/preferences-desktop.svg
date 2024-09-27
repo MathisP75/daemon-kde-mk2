@@ -26,7 +26,7 @@
   </defs>
   <path
      class="ColorScheme-Highlight"
-     style="fill:currentColor"
+     style="fill:#5DF4FE"
      d="M 24 0 A 24 24 0 0 0 0 24 A 24 24 0 0 0 24 48 A 24 24 0 0 0 48 24 A 24 24 0 0 0 24 0 z M 24 3 A 21 21 0 0 1 45 24 A 21 21 0 0 1 24 45 A 21 21 0 0 1 3 24 A 21 21 0 0 1 24 3 z M 12 10 L 12 19 L 16 19 L 16 10 L 12 10 z M 22 10 L 22 16 L 26 16 L 26 10 L 22 10 z M 32 10 L 32 24 L 36 24 L 36 10 L 32 10 z M 20 17 L 20 23 L 28 23 L 28 17 L 20 17 z M 10 20 L 10 26 L 18 26 L 18 20 L 10 20 z M 22 24 L 22 39 L 26 39 L 26 24 L 22 24 z M 30 25 L 30 31 L 38 31 L 38 25 L 30 25 z M 12 27 L 12 39 L 16 39 L 16 27 L 12 27 z M 32 32 L 32 39 L 36 39 L 36 32 L 32 32 z "
      transform="scale(0.26458333)"
      id="path835" />

@@ -4,8 +4,8 @@
    .ColorScheme-Text { color:#5DF4FE; } .ColorScheme-Highlight { color:#4285f4; }
   </style>
  </defs>
- <circle style="fill:currentColor" class="ColorScheme-Text" cx="8.5" cy="16.5" r="2.5"/>
- <circle style="fill:currentColor" class="ColorScheme-Text" cx="8.5" cy="7.5" r="2.5"/>
- <circle style="fill:currentColor" class="ColorScheme-Text" cx="15.5" cy="14.5" r="2.5"/>
+ <circle style="fill:#5DF4FE" class="ColorScheme-Text" cx="8.5" cy="16.5" r="2.5"/>
+ <circle style="fill:#5DF4FE" class="ColorScheme-Text" cx="8.5" cy="7.5" r="2.5"/>
+ <circle style="fill:#5DF4FE" class="ColorScheme-Text" cx="15.5" cy="14.5" r="2.5"/>
  <path style="fill:none;stroke:currentColor;stroke-width:1px" class="ColorScheme-Text" d="M 8.5,16.5 V 7.5 L 15.5,14.5"/>
 </svg>

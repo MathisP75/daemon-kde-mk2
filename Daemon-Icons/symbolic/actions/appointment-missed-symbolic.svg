@@ -28,7 +28,7 @@
      id="defs10" />
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -47,14 +47,14 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="svg6" />
   <path
-     style="color:#000000;font-weight:400;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#808080;fill-opacity:0.3"
+     style="color:#000000;font-weight:400;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#5DF4FE;fill-opacity:0.3"
      d="m 11.36,2 a 9.39,9.39 0 0 0 -9.37,9.37 9.39,9.39 0 0 0 11.24,9.18 v -2.57 a 6.96,6.96 0 0 1 -1.87,0.26 6.85,6.85 0 0 1 -6.87,-6.87 c 0,-3.8 3.06,-6.87 6.87,-6.87 a 6.85,6.85 0 0 1 6.6,8.74 h 2.58 A 9.36,9.36 0 0 0 11.36,2 Z m 3.7,5 a 0.62,0.62 0 0 0 -0.09,0.01 v 0.01 a 0.62,0.62 0 0 0 -0.3,0.2 L 11.34,10.52 9.28,8.47 A 0.62,0.62 0 1 0 8.42,9.32 l 2.5,2.5 a 0.62,0.62 0 0 0 0.85,0 L 15.52,8.08 A 0.62,0.62 0 0 0 15.07,7 Z"
      font-weight="400"
      overflow="visible"
      id="path2"
      inkscape:connector-curvature="0" />
   <path
-     style="color:#000000;font-weight:400;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#808080"
+     style="color:#000000;font-weight:400;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#5DF4FE"
      d="m 19.93,14.68 -1.73,1.8 -1.8,-1.75 -1.73,1.8 1.8,1.73 -1.74,1.8 1.8,1.73 1.73,-1.79 1.8,1.74 1.73,-1.8 -1.8,-1.73 1.74,-1.8 z"
      font-weight="400"
      overflow="visible"

@@ -29,7 +29,7 @@
      id="defs8" />
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -50,7 +50,7 @@
   <path
      d="m 13.38,1 c 3.8,0 6.87,3.07 6.87,6.88 v 8.25 c 0,3.8 -3.07,6.87 -6.88,6.87 h -2.74 v -2.75 h 2.74 A 4.12,4.12 0 0 0 17.5,16.12 V 7.88 a 4.125,4.125 0 1 0 -8.25,0 V 9.26 H 12 L 7.87,14.76 3.75,9.26 H 6.5 V 7.87 C 6.5,4.08 9.57,1 13.38,1 Z"
      overflow="visible"
-     style="color:#bebebe;overflow:visible;fill:#808080;marker:none"
+     style="color:#bebebe;overflow:visible;fill:#5DF4FE;marker:none"
      id="path2"
      inkscape:connector-curvature="0" />
 </svg>

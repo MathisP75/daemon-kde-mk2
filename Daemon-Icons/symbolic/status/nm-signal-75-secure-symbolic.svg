@@ -27,7 +27,7 @@
   </metadata>
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -102,7 +102,7 @@
   </defs>
   <g
      id="g26"
-     style="fill:#808080">
+     style="fill:#5DF4FE">
     <path
        clip-path="url(#a)"
        d="M 25.854,9.428 H -2.396 L 3.126,3.906 h 22.727"

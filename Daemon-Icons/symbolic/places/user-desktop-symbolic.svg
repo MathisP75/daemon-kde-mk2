@@ -27,7 +27,7 @@
   </metadata>
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -62,5 +62,5 @@
      d="m 3.884,4.932 c -0.321,0 -0.58,0.034 -0.58,0.076 v 1.67 c 0,0.042 0.259,0.076 0.58,0.076 H 20.09 c 0.32,0 0.579,-0.034 0.579,-0.076 v -1.67 c 0,-0.042 -0.259,-0.076 -0.58,-0.076 H 3.895 Z M 3.339,7.194 v 11.295 c 0,0.32 0.258,0.58 0.578,0.58 h 16.2 c 0.321,0 0.578,-0.26 0.578,-0.58 V 7.194 Z m 1.08,1.85 h 2.468 v 2.879 H 4.42 Z m 0,4.113 h 2.468 v 2.879 H 4.42 Z"
      id="path9"
      inkscape:connector-curvature="0"
-     style="fill:#808080" />
+     style="fill:#5DF4FE" />
 </svg>

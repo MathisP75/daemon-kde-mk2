@@ -27,7 +27,7 @@
   </metadata>
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -102,7 +102,7 @@
   </defs>
   <g
      id="g24"
-     style="fill:#808080;fill-opacity:0.30199998">
+     style="fill:#5DF4FE;fill-opacity:0.30199998">
     <path
        transform="matrix(0.33683739,-0.33683739,0.33683739,0.33683739,-4.255129,6.8714062)"
        clip-path="url(#a)"

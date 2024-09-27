@@ -25,7 +25,7 @@
   </defs>
   <path
      class="ColorScheme-Highlight"
-     style="fill:currentColor"
+     style="fill:#5DF4FE"
      d="M 24 3 A 21 21 0 0 0 3 24 A 21 21 0 0 0 24 45 A 21 21 0 0 0 45 24 A 21 21 0 0 0 24 3 z M 24 7 A 17 17 0 0 1 41 24 A 17 17 0 0 1 24 41 A 17 17 0 0 1 7 24 A 17 17 0 0 1 24 7 z M 22 10 L 22 38 L 26 38 L 26 10 L 22 10 z "
      id="path824" />
 </svg>
