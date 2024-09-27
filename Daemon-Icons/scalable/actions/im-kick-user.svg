@@ -26,8 +26,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -53,11 +53,11 @@
   <g
      transform="matrix(1.46154,0,0,1.46154,0.3,-8.7)"
      id="g7"
-     style="fill:#c83737">
+     style="fill:#5DF4FE">
     <path
        d="m 8,8 a 3,3 0 1 1 0,6 3,3 0 0 1 0,-6 z m 0,8 c 6,-0.01 6,4 6,4 v 1 H 2 v -1 c 0,0 0,-4 6,-4 z"
        id="path5"
        inkscape:connector-curvature="0"
-       style="color:#dfdfdf" />
+       style="color:#5DF4FE" />
   </g>
 </svg>

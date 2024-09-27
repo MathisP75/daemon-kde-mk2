@@ -29,8 +29,8 @@
   <defs
      id="defs12" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -60,7 +60,7 @@
      rx="0.63499999"
      ry="0.37"
      id="ellipse4"
-     style="fill:#ea5514" />
+     style="fill:#5DF4FE" />
   <ellipse
      transform="rotate(-6.921)"
      cx="8.1899996"
@@ -68,5 +68,5 @@
      rx="0.52899998"
      ry="0.29100001"
      id="ellipse6"
-     style="fill:#f39800" />
+     style="fill:#5DF4FE" />
 </svg>

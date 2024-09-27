@@ -29,8 +29,8 @@
   <defs
      id="defs16" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -62,7 +62,7 @@
      ry="0.145"
      transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)"
      id="rect4"
-     style="opacity:0.75;fill:#0000ff" />
+     style="opacity:0.75;fill:#5DF4FE" />
   <rect
      width="2.891"
      height="2.891"
@@ -72,7 +72,7 @@
      ry="0.145"
      transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)"
      id="rect6"
-     style="opacity:0.75;fill:#ffcc00" />
+     style="opacity:0.75;fill:#5DF4FE" />
   <rect
      width="2.891"
      height="2.891"
@@ -82,7 +82,7 @@
      ry="0.145"
      transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)"
      id="rect8"
-     style="opacity:0.75;fill:#ff00ff" />
+     style="opacity:0.75;fill:#5DF4FE" />
   <rect
      width="2.891"
      height="2.891"
@@ -92,5 +92,5 @@
      ry="0.145"
      transform="matrix(-0.70710678,-0.70710678,-0.70710678,0.70710678,0,0)"
      id="rect10"
-     style="opacity:0.75;fill:#008000" />
+     style="opacity:0.75;fill:#5DF4FE" />
 </svg>

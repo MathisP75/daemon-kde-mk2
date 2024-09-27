@@ -29,8 +29,8 @@
   <defs
      id="defs10" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -59,5 +59,5 @@
      font-size="144"
      id="path4"
      inkscape:connector-curvature="0"
-     style="font-weight:700;font-size:144px;font-family:'Trebuchet MS';opacity:0.75;fill:#005db1" />
+     style="font-weight:700;font-size:144px;font-family:'Trebuchet MS';opacity:0.75;fill:#5DF4FE" />
 </svg>

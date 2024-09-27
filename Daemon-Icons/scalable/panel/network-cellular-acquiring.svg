@@ -28,8 +28,8 @@
   <defs
      id="defs22" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -51,7 +51,7 @@
      id="g16"
      style="fill:#5DF4FE">
     <path
-       style="color:#bebebe;overflow:visible;fill-opacity:0.3;stroke-width:1.13;marker:none"
+       style="color:#5DF4FE;overflow:visible;fill-opacity:0.3;stroke-width:1.13;marker:none"
        d="m 18.23,3 a 0.56,0.56 0 0 0 -0.56,0.57 v 6.8 h 2.26 V 3.57 A 0.56,0.56 0 0 0 19.37,3 Z m -3.4,3.4 a 0.56,0.56 0 0 0 -0.56,0.57 v 3.4 h 2.26 V 6.97 A 0.56,0.56 0 0 0 15.97,6.4 Z m -3.4,3.4 a 0.56,0.56 0 0 0 -0.56,0.57 h 2.26 A 0.56,0.56 0 0 0 12.57,9.8 Z m -3.4,3.4 a 0.56,0.56 0 0 0 -0.56,0.57 v 5.66 c 0,0.32 0.25,0.57 0.56,0.57 h 1.14 c 0.31,0 0.56,-0.25 0.56,-0.57 V 13.77 A 0.56,0.56 0 0 0 9.17,13.2 Z m 2.84,0 v 6.23 c 0,0.32 0.25,0.57 0.56,0.57 h 1.14 c 0.31,0 0.56,-0.25 0.56,-0.57 V 13.2 Z m 3.4,0 v 6.23 c 0,0.32 0.25,0.57 0.56,0.57 h 1.14 c 0.31,0 0.56,-0.25 0.56,-0.57 V 13.2 Z m 3.4,0 v 6.23 c 0,0.32 0.25,0.57 0.56,0.57 h 1.14 c 0.31,0 0.56,-0.25 0.56,-0.57 V 13.2 Z M 4.63,16.6 a 0.56,0.56 0 0 0 -0.56,0.57 v 2.26 c 0,0.32 0.25,0.57 0.56,0.57 h 1.14 c 0.31,0 0.56,-0.25 0.56,-0.57 V 17.17 A 0.56,0.56 0 0 0 5.77,16.6 Z"
        overflow="visible"
        id="path2"

@@ -28,8 +28,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -73,7 +73,7 @@
        gradientUnits="userSpaceOnUse" />
   </defs>
   <path
-     style="overflow:visible;fill:url(#b);marker:none"
+     style="overflow:visible;fill:url(#5DF4FEker:none"
      d="M 6.34,7.1 A 1.15,1.57 0 0 1 7.5,8.66 1.15,1.57 0 0 1 6.35,10.23 1.15,1.57 0 0 1 5.2,8.66 1.15,1.57 0 0 1 6.34,7.1 Z"
      overflow="visible"
      id="path10"

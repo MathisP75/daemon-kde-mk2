@@ -21,10 +21,10 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="1.4800723"
-     inkscape:cx="252.35254"
-     inkscape:cy="1001.9781"
-     inkscape:window-width="1964"
+     inkscape:zoom="1.648595"
+     inkscape:cx="278.11562"
+     inkscape:cy="662.98881"
+     inkscape:window-width="1996"
      inkscape:window-height="1255"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -1593,6 +1593,12 @@
      xlink:href="#arrow-up-pressed"
      id="arrow-right-pressed"
      transform="rotate(90,118.00432,563.03147)" />
+  <use
+     width="450"
+     height="1230"
+     xlink:href="#arrow-up-pressed"
+     id="arrow-right-hover"
+     transform="rotate(90,183.5885,634.44218)" />
   <use
      width="450"
      height="1230"

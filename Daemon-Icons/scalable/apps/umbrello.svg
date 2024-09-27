@@ -27,8 +27,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -56,11 +56,11 @@
        gradientUnits="userSpaceOnUse"
        x2="3.01">
       <stop
-         stop-color="#cd1f03"
+         stop-color="#5DF4FE"
          id="stop2" />
       <stop
          offset="1"
-         stop-color="#d94460"
+         stop-color="#5DF4FE"
          id="stop4" />
     </linearGradient>
   </defs>

@@ -9,6 +9,7 @@ Version 1.0: https://github.com/MathisP75/daemon-dotfiles
 - [X] Window decorations
 - [X] Konsole color theme
 - [ ] Kate theme
+- [ ] Yakuake theme
 - [X] Plasma style (WIP)
 - [ ] Icon theme (WIP)
 - [ ] Wallpapers

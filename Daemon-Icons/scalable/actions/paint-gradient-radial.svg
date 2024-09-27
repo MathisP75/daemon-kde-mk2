@@ -27,8 +27,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -75,6 +75,6 @@
   <path
      d="m 1,1.03 h 22.14 v 22.1 H 1 Z"
      id="path10"
-     style="fill:url(#b);paint-order:markers fill stroke"
+     style="fill:url(#5DF4FEnt-order:markers fill stroke"
      inkscape:connector-curvature="0" />
 </svg>

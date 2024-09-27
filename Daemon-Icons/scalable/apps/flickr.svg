@@ -29,8 +29,8 @@
   <defs
      id="defs14" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -61,12 +61,12 @@
        cy="6.3499999"
        cx="4.0900002"
        id="circle4"
-       style="fill:#296ec6" />
+       style="fill:#5DF4FE" />
     <circle
        r="1.98"
        cy="6.3499999"
        cx="8.6099997"
        id="circle6"
-       style="fill:#e03c90" />
+       style="fill:#5DF4FE" />
   </g>
 </svg>

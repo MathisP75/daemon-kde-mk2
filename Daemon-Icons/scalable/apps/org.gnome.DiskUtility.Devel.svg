@@ -28,8 +28,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -73,11 +73,11 @@
        gradientTransform="translate(-12 34.132) scale(.34391)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#949390"
+         stop-color="#5DF4FE"
          offset="0"
          id="stop7" />
       <stop
-         stop-color="#424048"
+         stop-color="#5DF4FE"
          offset="1"
          id="stop9" />
     </radialGradient>
@@ -105,11 +105,11 @@
        gradientTransform="translate(52 34.132) scale(.34391)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#949390"
+         stop-color="#5DF4FE"
          offset="0"
          id="stop17" />
       <stop
-         stop-color="#424048"
+         stop-color="#5DF4FE"
          offset="1"
          id="stop19" />
     </radialGradient>
@@ -137,11 +137,11 @@
        gradientTransform="translate(52 -25.868) scale(.34391)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#949390"
+         stop-color="#5DF4FE"
          offset="0"
          id="stop27" />
       <stop
-         stop-color="#424048"
+         stop-color="#5DF4FE"
          offset="1"
          id="stop29" />
     </radialGradient>
@@ -169,11 +169,11 @@
        gradientTransform="translate(52 -53.868) scale(.34391)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#949390"
+         stop-color="#5DF4FE"
          offset="0"
          id="stop37" />
       <stop
-         stop-color="#424048"
+         stop-color="#5DF4FE"
          offset="1"
          id="stop39" />
     </radialGradient>
@@ -201,11 +201,11 @@
        gradientTransform="translate(-12 -53.868) scale(.34391)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#949390"
+         stop-color="#5DF4FE"
          offset="0"
          id="stop47" />
       <stop
-         stop-color="#424048"
+         stop-color="#5DF4FE"
          offset="1"
          id="stop49" />
     </radialGradient>
@@ -233,11 +233,11 @@
        gradientTransform="translate(-12 -25.868) scale(.34391)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#949390"
+         stop-color="#5DF4FE"
          offset="0"
          id="stop57" />
       <stop
-         stop-color="#424048"
+         stop-color="#5DF4FE"
          offset="1"
          id="stop59" />
     </radialGradient>
@@ -249,11 +249,11 @@
        gradientTransform="matrix(.59826 .63515 -.11523 .10854 58.71 2.173)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#010101"
+         stop-color="#5DF4FE"
          offset="0"
          id="stop62" />
       <stop
-         stop-color="#010101"
+         stop-color="#5DF4FE"
          stop-opacity="0"
          offset="1"
          id="stop64" />
@@ -374,19 +374,19 @@
          offset="0"
          id="stop80" />
       <stop
-         stop-color="#424048"
+         stop-color="#5DF4FE"
          offset=".047"
          id="stop82" />
       <stop
-         stop-color="#241f31"
+         stop-color="#5DF4FE"
          offset=".097"
          id="stop84" />
       <stop
-         stop-color="#241f31"
+         stop-color="#5DF4FE"
          offset=".9"
          id="stop86" />
       <stop
-         stop-color="#424048"
+         stop-color="#5DF4FE"
          offset=".95"
          id="stop88" />
       <stop
@@ -402,27 +402,27 @@
        gradientTransform="matrix(.25 0 0 .24306 -20 -80.436)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#424048"
+         stop-color="#5DF4FE"
          offset="0"
          id="stop93" />
       <stop
-         stop-color="#f6f5f4"
+         stop-color="#5DF4FE"
          offset=".047"
          id="stop95" />
       <stop
-         stop-color="#949390"
+         stop-color="#5DF4FE"
          offset=".097"
          id="stop97" />
       <stop
-         stop-color="#d5d3cf"
+         stop-color="#5DF4FE"
          offset=".9"
          id="stop99" />
       <stop
-         stop-color="#f6f5f4"
+         stop-color="#5DF4FE"
          offset=".95"
          id="stop101" />
       <stop
-         stop-color="#424048"
+         stop-color="#5DF4FE"
          offset="1"
          id="stop103" />
     </linearGradient>
@@ -435,7 +435,7 @@
        gradientTransform="matrix(.25 0 0 .25 0 53)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#f6f5f4"
+         stop-color="#5DF4FE"
          offset="0"
          id="stop106" />
       <stop
@@ -452,11 +452,11 @@
        gradientTransform="matrix(.25 0 0 .25 0 53)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#c0bfbc"
+         stop-color="#5DF4FE"
          offset="0"
          id="stop111" />
       <stop
-         stop-color="#f6f5f4"
+         stop-color="#5DF4FE"
          offset="1"
          id="stop113" />
     </linearGradient>
@@ -469,11 +469,11 @@
        gradientTransform="matrix(.25 0 0 .25 0 53)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#47454b"
+         stop-color="#5DF4FE"
          offset="0"
          id="stop116" />
       <stop
-         stop-color="#dfdee0"
+         stop-color="#5DF4FE"
          offset="1"
          id="stop118" />
     </linearGradient>
@@ -486,11 +486,11 @@
        gradientTransform="matrix(.25 0 0 .25 0 53)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#5e5c64"
+         stop-color="#5DF4FE"
          offset="0"
          id="stop121" />
       <stop
-         stop-color="#77767b"
+         stop-color="#5DF4FE"
          offset="1"
          id="stop123" />
     </linearGradient>

@@ -29,8 +29,8 @@
   <defs
      id="defs16" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -55,7 +55,7 @@
      style="fill:#5DF4FE" />
   <g
      id="g10"
-     style="fill:#2995cc">
+     style="fill:#5DF4FE">
     <path
        d="m 6.326,1.576 c 0,0 2.808,-0.126 4.296,2.691 H 6.087 c 0,0 -0.856,-0.027 -1.587,1.01 C 4.29,5.71 4.065,6.159 4.318,7.042 3.953,6.425 2.38,3.692 2.38,3.692 c 0,0 1.11,-2.004 3.946,-2.116 z"
        id="path4"

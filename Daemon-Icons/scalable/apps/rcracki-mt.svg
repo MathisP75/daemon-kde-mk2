@@ -29,8 +29,8 @@
   <defs
      id="defs20" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -58,35 +58,35 @@
      cy="3.0999999"
      cx="6.085"
      id="circle4"
-     style="opacity:0.8;fill:#367bf0;paint-order:stroke fill markers" />
+     style="opacity:0.8;fill:#5DF4FE;paint-order:stroke fill markers" />
   <circle
      cx="9.0380001"
      cy="4.585"
      r="1.544"
      id="circle6"
-     style="opacity:0.8;fill:#0ca15e;paint-order:stroke fill markers" />
+     style="opacity:0.8;fill:#5DF4FE;paint-order:stroke fill markers" />
   <circle
      cx="3.6700001"
      cy="8.1400003"
      r="1.544"
      id="circle8"
-     style="opacity:0.8;fill:#d41919;paint-order:stroke fill markers" />
+     style="opacity:0.8;fill:#5DF4FE;paint-order:stroke fill markers" />
   <circle
      cx="6.5609999"
      cy="9.5679998"
      r="1.544"
      id="circle10"
-     style="opacity:0.8;fill:#fd7d00;paint-order:stroke fill markers" />
+     style="opacity:0.8;fill:#5DF4FE;paint-order:stroke fill markers" />
   <circle
      cx="9.1859999"
      cy="7.77"
      r="1.544"
      id="circle12"
-     style="opacity:0.8;fill:#f8de68;paint-order:stroke fill markers" />
+     style="opacity:0.8;fill:#5DF4FE;paint-order:stroke fill markers" />
   <circle
      cx="3.5139999"
      cy="4.9349999"
      r="1.544"
      id="circle14"
-     style="opacity:0.8;fill:#8c42ab;paint-order:stroke fill markers" />
+     style="opacity:0.8;fill:#5DF4FE;paint-order:stroke fill markers" />
 </svg>

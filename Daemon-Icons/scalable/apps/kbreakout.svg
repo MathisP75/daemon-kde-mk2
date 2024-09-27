@@ -26,8 +26,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -51,77 +51,77 @@
        id="a">
       <stop
          offset="0"
-         stop-color="#8c47a9"
+         stop-color="#5DF4FE"
          id="stop2" />
       <stop
          offset="1"
-         stop-color="#c978ec"
+         stop-color="#5DF4FE"
          id="stop4" />
     </linearGradient>
     <linearGradient
        id="b">
       <stop
          offset="0"
-         stop-color="#efa63d"
+         stop-color="#5DF4FE"
          id="stop7" />
       <stop
          offset="1"
-         stop-color="#ffd393"
+         stop-color="#5DF4FE"
          id="stop9" />
     </linearGradient>
     <linearGradient
        id="c">
       <stop
          offset="0"
-         stop-color="#3bb566"
+         stop-color="#5DF4FE"
          id="stop12" />
       <stop
          offset="1"
-         stop-color="#66cd8a"
+         stop-color="#5DF4FE"
          id="stop14" />
     </linearGradient>
     <linearGradient
        id="d">
       <stop
          offset="0"
-         stop-color="#cfd5d5"
+         stop-color="#5DF4FE"
          id="stop17" />
       <stop
          offset="1"
-         stop-color="#fcfcfc"
+         stop-color="#5DF4FE"
          id="stop19" />
     </linearGradient>
     <linearGradient
        id="e">
       <stop
          offset="0"
-         stop-color="#e05e4c"
+         stop-color="#5DF4FE"
          id="stop22" />
       <stop
          offset="1"
-         stop-color="#e98a7e"
+         stop-color="#5DF4FE"
          id="stop24" />
     </linearGradient>
     <linearGradient
        id="f">
       <stop
          offset="0"
-         stop-color="#3b85b5"
+         stop-color="#5DF4FE"
          id="stop27" />
       <stop
          offset="1"
-         stop-color="#77aed3"
+         stop-color="#5DF4FE"
          id="stop29" />
     </linearGradient>
     <linearGradient
        id="g">
       <stop
          offset="0"
-         stop-color="#536161"
+         stop-color="#5DF4FE"
          id="stop32" />
       <stop
          offset="1"
-         stop-color="#595959"
+         stop-color="#5DF4FE"
          id="stop34" />
     </linearGradient>
   </defs>

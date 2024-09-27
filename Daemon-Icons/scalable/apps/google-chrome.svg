@@ -29,8 +29,8 @@
   <defs
      id="defs14" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -57,15 +57,15 @@
      d="m 6.326,1.576 c 0,0 2.808,-0.126 4.296,2.691 H 6.087 c 0,0 -0.856,-0.027 -1.587,1.01 C 4.29,5.71 4.065,6.159 4.318,7.042 3.953,6.425 2.38,3.692 2.38,3.692 c 0,0 1.11,-2.004 3.946,-2.116 z"
      id="path4"
      inkscape:connector-curvature="0"
-     style="opacity:0.9;fill:#e16b5a" />
+     style="opacity:0.9;fill:#5DF4FE" />
   <path
      d="m 10.476,8.728 c 0,0 -1.295,2.49 -4.483,2.368 L 8.261,7.176 C 8.261,7.176 8.714,6.45 8.179,5.3 7.551,4.389 6.909,4.232 6.192,4.259 c 0.718,-0.014 4.421,0.003 4.421,0.003 0,0 1.184,1.961 -0.137,4.469 z"
      id="path6"
      inkscape:connector-curvature="0"
-     style="opacity:0.9;fill:#ffd464" />
+     style="opacity:0.9;fill:#5DF4FE" />
   <path
      d="m 2.196,8.747 c 0,0 -1.513,-2.365 0.187,-5.06 L 4.65,7.61 c 0,0 0.403,0.754 1.668,0.867 C 6.8,8.442 7.302,8.411 7.942,7.752 c -0.353,0.624 -1.938,3.35 -1.938,3.35 0,0 -2.294,0.042 -3.808,-2.354 z"
      id="path8"
      inkscape:connector-curvature="0"
-     style="opacity:0.9;fill:#74b340" />
+     style="opacity:0.9;fill:#5DF4FE" />
 </svg>

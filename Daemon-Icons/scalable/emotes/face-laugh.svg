@@ -27,8 +27,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -71,11 +71,11 @@
        x2="19.35"
        x1="19.1">
       <stop
-         stop-color="#edd400"
+         stop-color="#5DF4FE"
          offset="0"
          id="stop7" />
       <stop
-         stop-color="#fce94f"
+         stop-color="#5DF4FE"
          stop-opacity="0"
          offset="1"
          id="stop9" />

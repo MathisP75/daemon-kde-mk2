@@ -28,8 +28,8 @@
   <defs
      id="defs16" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -67,6 +67,6 @@
      cx="12"
      cy="12"
      r="6"
-     style="fill:#c83737;fill-rule:evenodd;paint-order:normal"
+     style="fill:#5DF4FE;fill-rule:evenodd;paint-order:normal"
      id="circle10" />
 </svg>

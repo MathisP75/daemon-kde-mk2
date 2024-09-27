@@ -29,8 +29,8 @@
   <defs
      id="defs14" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -62,7 +62,7 @@
      d="M 6.35,10.763 1.993,7.653 V 7.654 Z M 10.707,7.654 6.35,10.763 Z"
      id="path6"
      inkscape:connector-curvature="0"
-     style="fill:#fc6d26;fill-rule:evenodd" />
+     style="fill:#5DF4FE;fill-rule:evenodd" />
   <path
      d="M 2.372,5.837 6.35,10.763 4.694,5.837 Z M 6.35,10.763 10.328,5.837 H 8.006 Z"
      id="path8"

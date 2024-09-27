@@ -27,8 +27,8 @@
   <defs
      id="defs12" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -53,7 +53,7 @@
        d="M 11.3,1 C 5.64,1 1,5.64 1,11.32 a 10.33,10.33 0 0 0 12.37,10.1 V 18.6 a 7.66,7.66 0 0 1 -2.06,0.29 c -4.2,0 -7.57,-3.37 -7.57,-7.56 0,-4.19 3.37,-7.57 7.57,-7.57 a 7.54,7.54 0 0 1 7.27,9.63 h 2.83 A 10.31,10.31 0 0 0 11.31,1 Z m 4.08,5.5 a 0.69,0.69 0 0 0 -0.1,0.02 V 6.53 A 0.69,0.69 0 0 0 14.94,6.74 L 11.3,10.4 9,8.12 A 0.69,0.69 0 1 0 8.06,9.07 l 2.75,2.74 a 0.69,0.69 0 0 0 0.94,0 L 15.9,7.7 A 0.69,0.69 0 0 0 15.4,6.52 Z"
        font-weight="400"
        overflow="visible"
-       style="color:#000000;font-weight:400;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal"
+       style="color:#5DF4FE;font-weight:400;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#5DF4FE;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal"
        id="path2"
        inkscape:connector-curvature="0" />
     <path
@@ -61,6 +61,6 @@
        overflow="visible"
        id="path4"
        inkscape:connector-curvature="0"
-       style="color:#bebebe;overflow:visible" />
+       style="color:#5DF4FE;overflow:visible" />
   </g>
 </svg>

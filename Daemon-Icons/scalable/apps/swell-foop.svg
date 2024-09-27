@@ -29,8 +29,8 @@
   <defs
      id="defs10" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,7 +54,7 @@
      inkscape:connector-curvature="0"
      style="fill:#5DF4FE" />
   <path
-     style="color:#000000;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;opacity:0.75;isolation:auto;mix-blend-mode:normal;fill:#008000"
+     style="color:#5DF4FE;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#5DF4FE;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;opacity:0.75;isolation:auto;mix-blend-mode:normal;fill:#5DF4FE"
      d="m 3.4,7.12 c -0.2,0 -0.36,0.16 -0.36,0.35 v 2.19 c 0,0.19 0.16,0.35 0.36,0.35 h 2.2 c 0.2,0 0.36,-0.16 0.36,-0.35 V 7.46 C 5.96,7.28 5.8,7.12 5.6,7.12 Z"
      id="path4"
      inkscape:connector-curvature="0" />

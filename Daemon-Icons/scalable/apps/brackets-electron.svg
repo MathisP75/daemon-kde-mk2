@@ -27,8 +27,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -56,39 +56,39 @@
          id="stop2" />
       <stop
          offset="1"
-         stop-color="#7cafec"
+         stop-color="#5DF4FE"
          id="stop4" />
     </linearGradient>
     <linearGradient
        id="b">
       <stop
-         stop-color="#2579b0"
+         stop-color="#5DF4FE"
          id="stop7" />
       <stop
          offset="1"
-         stop-color="#7cbfec"
+         stop-color="#5DF4FE"
          id="stop9" />
     </linearGradient>
     <linearGradient
        id="c">
       <stop
          offset="0"
-         stop-color="#2e3436"
+         stop-color="#5DF4FE"
          id="stop12" />
       <stop
          offset="1"
-         stop-color="#555753"
+         stop-color="#5DF4FE"
          id="stop14" />
     </linearGradient>
     <linearGradient
        id="d">
       <stop
          offset="0"
-         stop-color="#1064d3"
+         stop-color="#5DF4FE"
          id="stop17" />
       <stop
          offset="1"
-         stop-color="#14c6fd"
+         stop-color="#5DF4FE"
          id="stop19" />
     </linearGradient>
   </defs>
@@ -101,5 +101,5 @@
      d="m 6.35,1.65 a 4.7,4.7 0 0 0 -4.7,4.7 4.7,4.7 0 0 0 4.7,4.7 4.7,4.7 0 0 0 4.7,-4.7 4.7,4.7 0 0 0 -4.7,-4.7 z M 6.34,2.53 A 3.86,3.86 0 0 1 10.2,6.39 3.86,3.86 0 0 1 6.34,10.25 3.86,3.86 0 0 1 2.48,6.39 3.86,3.86 0 0 1 6.34,2.53 Z"
      id="path26"
      inkscape:connector-curvature="0"
-     style="opacity:0.75;fill:#ff0000" />
+     style="opacity:0.75;fill:#5DF4FE" />
 </svg>

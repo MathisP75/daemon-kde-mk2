@@ -29,8 +29,8 @@
   <defs
      id="defs24" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -60,27 +60,27 @@
        d="m 7.169,286.05 -1.136,3.21 4.47,-0.747 A 4.76,4.76 0 0 0 7.168,286.05"
        id="path4"
        inkscape:connector-curvature="0"
-       style="opacity:0.75;fill:#cd7223" />
+       style="opacity:0.75;fill:#5DF4FE" />
     <path
        d="m 10.798,289.213 -3.367,0.629 2.887,3.473 c 0.77,-1.202 0.97,-2.716 0.48,-4.102"
        id="path6"
        inkscape:connector-curvature="0"
-       style="opacity:0.75;fill:#ffa92d" />
+       style="opacity:0.75;fill:#5DF4FE" />
     <path
        d="m 9.884,293.842 -2.232,-2.583 -1.584,4.22 a 4.777,4.777 0 0 0 3.816,-1.637"
        id="path8"
        inkscape:connector-curvature="0"
-       style="opacity:0.75;fill:#2b4d37" />
+       style="opacity:0.75;fill:#5DF4FE" />
     <path
        d="m 5.406,295.396 1.136,-3.21 -4.47,0.747 a 4.76,4.76 0 0 0 3.335,2.463"
        id="path10"
        inkscape:connector-curvature="0"
-       style="opacity:0.75;fill:#375a7d" />
+       style="opacity:0.75;fill:#5DF4FE" />
     <path
        d="M 1.807,292.228 5.173,291.6 2.286,288.127 a 4.702,4.702 0 0 0 -0.48,4.101"
        id="path12"
        inkscape:connector-curvature="0"
-       style="opacity:0.75;fill:#68377d" />
+       style="opacity:0.75;fill:#5DF4FE" />
     <circle
        cx="6.302"
        cy="290.72198"
@@ -91,6 +91,6 @@
        d="m 2.71,287.602 2.232,2.582 1.584,-4.22 a 4.777,4.777 0 0 0 -3.816,1.638"
        id="path16"
        inkscape:connector-curvature="0"
-       style="opacity:0.75;fill:#bf4231" />
+       style="opacity:0.75;fill:#5DF4FE" />
   </g>
 </svg>

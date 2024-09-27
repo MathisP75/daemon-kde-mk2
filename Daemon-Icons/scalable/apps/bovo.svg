@@ -27,8 +27,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -52,11 +52,11 @@
        id="a">
       <stop
          offset="0"
-         stop-color="#000019"
+         stop-color="#5DF4FE"
          id="stop2" />
       <stop
          offset="1"
-         stop-color="#000019"
+         stop-color="#5DF4FE"
          stop-opacity=".29"
          id="stop4" />
     </linearGradient>
@@ -64,22 +64,22 @@
        id="b">
       <stop
          offset="0"
-         stop-color="#1f93b9"
+         stop-color="#5DF4FE"
          id="stop7" />
       <stop
          offset="1"
-         stop-color="#1a5c9b"
+         stop-color="#5DF4FE"
          id="stop9" />
     </linearGradient>
     <linearGradient
        id="c">
       <stop
          offset="0"
-         stop-color="#dc2b41"
+         stop-color="#5DF4FE"
          id="stop12" />
       <stop
          offset="1"
-         stop-color="#c61423"
+         stop-color="#5DF4FE"
          id="stop14" />
     </linearGradient>
   </defs>

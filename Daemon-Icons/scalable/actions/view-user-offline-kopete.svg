@@ -26,8 +26,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,5 +54,5 @@
      d="m 9.25,3.56 a 4.13,4.13 0 1 0 0,8.25 4.13,4.13 0 0 0 0,-8.25 z m 6.87,2.68 c -0.53,0 -1.03,0.13 -1.49,0.33 a 5.46,5.46 0 0 1 -1.5,5 c 0.63,0.97 1.72,1.61 2.99,1.61 a 3.52,3.52 0 0 0 3.57,-3.47 c 0,-1.92 -1.6,-3.47 -3.57,-3.47 z M 9.25,14.56 C 1,14.56 1,20.06 1,20.06 v 1.38 h 16.5 v -1.38 c 0,0 0,-5.51 -8.25,-5.5 z m 6.88,0 c -0.27,0 -0.52,0.02 -0.77,0.03 0.96,0.55 1.7,1.2 2.21,1.9 1.3,1.73 1.3,3.57 1.3,3.57 H 23 v -1.38 c 0,0 0,-4.12 -6.88,-4.12 z"
      id="path5"
      inkscape:connector-curvature="0"
-     style="color:#dfdfdf;fill:#5DF4FE;stroke-width:1.38" />
+     style="color:#5DF4FE;fill:#5DF4FE;stroke-width:1.38" />
 </svg>

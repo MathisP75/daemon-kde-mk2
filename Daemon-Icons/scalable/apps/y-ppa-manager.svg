@@ -29,8 +29,8 @@
   <defs
      id="defs22" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -57,35 +57,35 @@
      d="M 4.563,7.355 V 5.345 L 6.35,4.339 8.137,5.345 v 2.01 L 6.35,8.361 Z"
      id="path4"
      inkscape:connector-curvature="0"
-     style="fill:#d6ac12" />
+     style="fill:#5DF4FE" />
   <path
      d="M 6.593,2.04 V 3.808 L 8.439,4.811 9.979,3.888 Z"
      id="path6"
      inkscape:connector-curvature="0"
-     style="fill:#8fb635" />
+     style="fill:#5DF4FE" />
   <path
      d="M 5.977,2.04 V 3.808 L 4.13,4.811 2.591,3.888 Z"
      id="path8"
      inkscape:connector-curvature="0"
-     style="fill:#3895bd" />
+     style="fill:#5DF4FE" />
   <path
      d="m 10.278,4.341 -1.53,0.884 0.055,2.1 1.569,0.872 z"
      id="path10"
      inkscape:connector-curvature="0"
-     style="fill:#d18c3b" />
+     style="fill:#5DF4FE" />
   <path
      d="m 2.422,4.341 1.53,0.884 -0.055,2.1 -1.569,0.872 z"
      id="path12"
      inkscape:connector-curvature="0"
-     style="fill:#3941bf" />
+     style="fill:#5DF4FE" />
   <path
      d="M 6.593,10.66 V 8.891 l 1.846,-1.003 1.54,0.923 z"
      id="path14"
      inkscape:connector-curvature="0"
-     style="fill:#a02c35" />
+     style="fill:#5DF4FE" />
   <path
      d="M 5.977,10.66 V 8.891 L 4.13,7.889 2.591,8.812 Z"
      id="path16"
      inkscape:connector-curvature="0"
-     style="fill:#bb3a84" />
+     style="fill:#5DF4FE" />
 </svg>

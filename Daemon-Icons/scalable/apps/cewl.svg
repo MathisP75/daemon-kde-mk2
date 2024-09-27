@@ -27,8 +27,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -56,7 +56,7 @@
        gradientTransform="matrix(.02278 0 0 .01838 1.291 -6.6)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#00ba96"
+         stop-color="#5DF4FE"
          offset="0"
          id="stop2" />
       <stop
@@ -74,5 +74,5 @@
      d="m 4.611,6.047 h 3.478 c 0.053,0 0.098,0.043 0.095,0.096 L 8.083,8.117 C 8.08,8.169 8.04,8.212 7.988,8.212 H 4.712 C 4.66,8.212 4.62,8.169 4.617,8.117 L 4.516,6.143 C 4.513,6.09 4.558,6.047 4.611,6.047 Z"
      id="path11"
      inkscape:connector-curvature="0"
-     style="opacity:0.75;fill:#00ba96" />
+     style="opacity:0.75;fill:#5DF4FE" />
 </svg>

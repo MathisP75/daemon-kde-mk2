@@ -29,8 +29,8 @@
   <defs
      id="defs12" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -57,10 +57,10 @@
      d="M 5.896,5.896 2.762,9.938 6.804,6.804 Z"
      id="path4"
      inkscape:connector-curvature="0"
-     style="opacity:0.75;fill:#008080" />
+     style="opacity:0.75;fill:#5DF4FE" />
   <path
      d="M 5.896,5.896 6.804,6.804 9.938,2.762 Z"
      id="path6"
      inkscape:connector-curvature="0"
-     style="opacity:0.75;fill:#aa0000" />
+     style="opacity:0.75;fill:#5DF4FE" />
 </svg>

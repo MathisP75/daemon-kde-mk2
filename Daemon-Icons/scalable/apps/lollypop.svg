@@ -29,8 +29,8 @@
   <defs
      id="defs10" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#5DF4FE"
+     bordercolor="#5DF4FE"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -57,5 +57,5 @@
      d="M 5.4,4.86 C 5.3,4.86 5.22,4.94 5.22,5.03 V 7.86 C 5.22,8 5.36,8.08 5.47,8.01 L 6.63,7.31 7.79,6.6 c 0.1,-0.07 0.1,-0.23 0,-0.3 L 6.63,5.6 5.47,4.88 A 0.16,0.16 0 0 0 5.39,4.86 Z"
      id="path4"
      inkscape:connector-curvature="0"
-     style="fill:#fa4b8c" />
+     style="fill:#5DF4FE" />
 </svg>
