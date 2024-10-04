@@ -1,0 +1,27 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "mathispaquet362@gmail.com",
+                "Name": "Mathis Paquet"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Daemon-2.0",
+        "Description": "Cyberpunk 2077 inspired theme",
+        "Id": "Daemon-2.0",
+        "Version": "2.3",
+        "License": "GPL 3+",
+        "Website": "https://github.com/MathisP75/daemon-kde-mk2",
+        "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+        "X-Plasma-APIVersion": "2"
+    },
+     "X-KPackage-Dependencies": [
+
+    ]
+}
