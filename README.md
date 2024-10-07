@@ -7,6 +7,19 @@ Version 1.0: https://github.com/MathisP75/daemon-dotfiles
 ![](Screenshots/desktop-1.png)
 ![](Screenshots/desktop-2.png)
 
+## Installation instrucions
+Here's how to install this theme manually:
+```
+git clone https://github.com/MathisP75/daemon-kde-mk2.git
+cd daemon-kde-mk2
+cp 'Color Scheme/Daemon2.colors' $HOME/.local/share/color-schemes/
+cp Kvantum/daemon-2.0 $HOME/.config/Kvantum/
+cp Daemon-Icons $HOME/.local/share/icons/
+cp 'Plasma Style/Daemon-2.0' $HOME/.local/share/plasma/desktoptheme/
+cp 'Window Decorations/daemon-2.0' $HOME/.local/share/aurorae/themes/
+cp Konsole/Daemon-2.0.colorscheme $HOME/.local/share/konsole/
+```
+
 ## Roadmap
 - [X] Kvantum theme
 - [X] Color theme
@@ -45,7 +58,7 @@ Version 1.0: https://github.com/MathisP75/daemon-dotfiles
 * Icons: Daemon-2.0
 * Cursors: Bibata-Original-Classic
 
-# Credits:
+## Credits:
 I made most of this theme from scratch, but some elements have been taken or adapted from other authors:
 * Icon pack: Adapted from the [Simply Circles icon pack](https://github.com/ju1464/Simply_Circles_Icons), by ju1464
 * Logo font by Irwanto Irwanto on [Vecteezy](https://www.vecteezy.com/vector-art/4578926-futuristic-cyberpunk-typography-design-sci-fi-glitch-cyberpunk-design)
