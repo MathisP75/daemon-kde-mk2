@@ -25,6 +25,7 @@ I have also uploaded the themes to the Pling store, so you can install them thro
 * [Color theme](https://www.pling.com/p/2213953/)
 * [Plasma style](https://www.pling.com/p/2213923/)
 * [Kvantum theme](https://www.pling.com/p/2211151/)
+* [Icon theme](https://www.pling.com/p/2213960/)
 
 ## Roadmap
 - [X] Kvantum theme
