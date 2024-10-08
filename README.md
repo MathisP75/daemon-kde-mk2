@@ -5,8 +5,8 @@ Inspired by Cyberpunk 2077, to make you feel like in a dystopian future while do
 Version 1.0: https://github.com/MathisP75/daemon-dotfiles
 
 ![Image](Screenshots/desktop-1.png)
-<img src="Screenshots/desktop-2.png" width="420"/> <img src="Screenshots/desktop-3.png" width="420"/> 
-<img src="Screenshots/desktop-4.png" width="420"/> <img src="Screenshots/desktop-5.png" width="420"/> 
+<img src="Screenshots/desktop-2.png" width="410"/> <img src="Screenshots/desktop-3.png" width="410"/> 
+<img src="Screenshots/desktop-4.png" width="410"/> <img src="Screenshots/desktop-5.png" width="410"/> 
 
 ## Installation instrucions
 Here's how to install this theme manually:
