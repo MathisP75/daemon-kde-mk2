@@ -14,7 +14,7 @@ git clone https://github.com/MathisP75/daemon-kde-mk2.git
 cd daemon-kde-mk2
 cp 'Color Scheme/Daemon2.colors' $HOME/.local/share/color-schemes/
 cp Kvantum/daemon-2.0 $HOME/.config/Kvantum/
-cp Daemon-Icons $HOME/.local/share/icons/
+cp 'Icon Theme/Daemon-Icons' $HOME/.local/share/icons/
 cp 'Plasma Style/Daemon-2.0' $HOME/.local/share/plasma/desktoptheme/
 cp 'Window Decorations/daemon-2.0' $HOME/.local/share/aurorae/themes/
 cp Konsole/Daemon-2.0.colorscheme $HOME/.local/share/konsole/
