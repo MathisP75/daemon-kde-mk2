@@ -20,6 +20,12 @@ cp 'Window Decorations/daemon-2.0' $HOME/.local/share/aurorae/themes/
 cp Konsole/Daemon-2.0.colorscheme $HOME/.local/share/konsole/
 ```
 
+I have also uploaded the themes to the Pling store, so you can install them through the system settings.
+* [Window decorations](https://www.pling.com/p/2213955/)
+* [Color theme](https://www.pling.com/p/2213953/)
+* [Plasma style](https://www.pling.com/p/2213923/)
+* [Kvantum theme](https://www.pling.com/p/2211151/)
+
 ## Roadmap
 - [X] Kvantum theme
 - [X] Color theme
