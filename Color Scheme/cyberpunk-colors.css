@@ -16,10 +16,8 @@
 @define-color pink0 #E455AE;
 @define-color magenta0 #CB1DCD;
 
-@define-color text0 #D1C5C0;
-
-@define-color fg0 #331319;
-@define-color fg1 #210E15;
-@define-color fg2 #040A10;
+@define-color bg0 #331319;
+@define-color bg1 #210E15;
+@define-color bg2 #040A10;
 
 @define-color surface0 #14101F;
