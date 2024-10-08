@@ -4,8 +4,9 @@ Inspired by Cyberpunk 2077, to make you feel like in a dystopian future while do
 
 Version 1.0: https://github.com/MathisP75/daemon-dotfiles
 
-![](Screenshots/desktop-1.png)
-![](Screenshots/desktop-2.png)
+<img src="Screenshots/desktop-1.png" width="400"/> <img src="Screenshots/desktop-2.png" width="400"/>
+<img src="Screenshots/desktop-3.png" width="400"/> <img src="Screenshots/desktop-4.png" width="400"/> 
+<img src="Screenshots/desktop-5.png" width="400"/> <img src="Screenshots/desktop-6.png" width="400"/> 
 
 ## Installation instrucions
 Here's how to install this theme manually:
@@ -27,6 +28,7 @@ I have also uploaded the themes to the Pling store, so you can install them thro
 * [Plasma style](https://www.pling.com/p/2213923/)
 * [Kvantum theme](https://www.pling.com/p/2211151/)
 * [Icon theme](https://www.pling.com/p/2213960/)
+* [Konsole color scheme](https://www.pling.com/p/2214176/)
 
 ### Widgets
 These are the widgets I use in my setup
@@ -54,7 +56,7 @@ These are the widgets I use in my setup
 	- Desktop Effects: 
 		+ Virtual Desktop Switching Animation: Slide
 		+ Window Management: Cube
-		+ Window Open/Close Animation: TV Glitch [Burn-My-Windows]
+		+ Window Open/Close Animation: [TV Glitch [Burn-My-Windows]](https://store.kde.org/p/2133819)
 * Colors: Daemon-2.0
 * Application Style: Kvantum
 * Kvantum Theme: Daemon-2.0
@@ -62,6 +64,8 @@ These are the widgets I use in my setup
 * Window Decorations: Daemon-2.0
 * Icons: Daemon-2.0
 * Cursors: Bibata-Original-Classic
+
+The "D" icon for the application launcher can be found under the Assets directory.
 
 ## Wallpaper
 The wallpaper has been made to fit my 2560 x 1600 laptop screen at 125% scaling. In order for it to look good, you might have to adjust it to fit your screen. You can find the SVG file in the wallpaper directory.
