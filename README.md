@@ -8,7 +8,7 @@ Version 1.0: https://github.com/MathisP75/daemon-dotfiles
 <img src="Screenshots/desktop-2.png" width="410"/> <img src="Screenshots/desktop-3.png" width="410"/> 
 <img src="Screenshots/desktop-4.png" width="410"/> <img src="Screenshots/desktop-5.png" width="410"/> 
 
-## Installation instrucions
+## Installation instructions
 Here's how to install this theme manually:
 ```
 git clone https://github.com/MathisP75/daemon-kde-mk2.git
