@@ -130,7 +130,7 @@ text.focus.color=#5DF4FE
 text.press.color=#5DF4FE
 text.toggle.color=#5DF4FE
 text.shadow=0
-text.margin=0
+text.margin=1
 text.iconspacing=4
 indicator.element=arrow
 text.margin.top=0
@@ -252,11 +252,13 @@ text.normal.color=#5DF4FE
 text.focus.color=#D1C5C0
 text.press.color=#D1C5C0
 text.toggle.color=#D1C5C0
-frame.expansion=10
+frame.expansion=0
+text.margin=2
 text.margin.top=0
 text.margin.bottom=0
 text.margin.left=2
 text.margin.right=2
+text.iconspacing=4
 
 [SizeGrip]
 inherits=PanelButtonCommand
