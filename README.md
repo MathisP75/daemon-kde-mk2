@@ -72,24 +72,24 @@ The wallpaper has been made to fit my 2560 x 1600 laptop screen at 125% scaling.
 
 ## Color palette
 Can be found in CSS format under the Color Scheme directory.
-| Name    | HEX |
-| -------- | ------- |
-| black0 | #272932 |
-| red0 | #710100 |
-| red1 | #FB3048 |
-| red2 | #FF5048 |
-| yellow0 | #FDF500 |
-| yellow1 | #CFED58 |
-| green0 | #28C775 |
-| cyan0 | #1AC5B0 |
-| blue0 | #5DF4FE |
-| purple0 | #9370DB |
-| pink0 | #E455AE |
-| magenta0 | #CB1DCD |
-| bg0 | #331319 |
-| bg1 | #210E15 |
-| bg2 | #040A10 |
-| surface0 | #14101F |
+| Name    | HEX | Swatch |
+| -------- | ------- | :-----: | 
+| black0 | #272932 | ![black0](https://placehold.co/50x25/331319/331319.png) |
+| red0 | #710100 | ![red0](https://placehold.co/50x25/710100/710100.png) |
+| red1 | #FB3048 | ![red1](https://placehold.co/50x25/FB3048/FB3048.png) |
+| red2 | #FF5048 | ![red2](https://placehold.co/50x25/FF5048/FF5048.png) |
+| yellow0 | #FDF500 | ![yellow0](https://placehold.co/50x25/FDF500/FDF500.png) |
+| yellow1 | #CFED58 | ![yellow1](https://placehold.co/50x25/CFED58/CFED58.png) |
+| green0 | #28C775 | ![green0](https://placehold.co/50x25/28C775/28C775.png) |
+| cyan0 | #1AC5B0 | ![cyan0](https://placehold.co/50x25/1AC5B0/1AC5B0.png) |
+| blue0 | #5DF4FE | ![blue0](https://placehold.co/50x25/5DF4FE/5DF4FE.png) |
+| purple0 | #9370DB | ![purple0](https://placehold.co/50x25/9370DB/9370DB.png) |
+| pink0 | #E455AE | ![pink0](https://placehold.co/50x25/E455AE/E455AE.png) |
+| magenta0 | #CB1DCD | ![magenta0](https://placehold.co/50x25/CB1DCD/CB1DCD.png) |
+| bg0 | #331319 | ![bg0](https://placehold.co/50x25/331319/331319.png) |
+| bg1 | #210E15 | ![bg1](https://placehold.co/50x25/210E15/210E15.png) |
+| bg2 | #040A10 | ![bg2](https://placehold.co/50x25/040A10/040A10.png) |
+| surface0 | #14101F | ![surface0](https://placehold.co/50x25/14101F/14101F.png) |
 
 ## Roadmap
 - [X] Kvantum theme
