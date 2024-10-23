@@ -1,0 +1,5 @@
+Example usages:
+  yo code                       # Create an extension in a folder with the extension's name as prompted in the generator.
+  yo code . -O                  # Create an extension in current folder and open with code-insiders
+  yo code Hello -t=ts -q        # Create an TypeScript extension in './Hello', skip prompts, use defaults.
+  yo code --insiders            # Show the insiders options for the generator

@@ -4,8 +4,8 @@
    height="24"
    version="1.1"
    id="svg26"
-   sodipodi:docname="network-wireless-symbolic.svg"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="network-wireless-connected-symbolic.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -39,8 +39,8 @@
      id="namedview28"
      showgrid="false"
      inkscape:zoom="27.812867"
-     inkscape:cx="12.422308"
-     inkscape:cy="15.92788"
+     inkscape:cx="12.440285"
+     inkscape:cy="15.945857"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -134,25 +134,5 @@
        id="path22"
        inkscape:connector-curvature="0"
        style="display:inline" />
-    <path
-       d="m 20.691014,19.093296 -0.844809,0.84704 1.894691,1.894691 0.847038,-0.847039 z"
-       style="fill:#5df4fe;fill-opacity:1;stroke-width:0.244"
-       id="path5" />
-    <path
-       d="m 17.949283,16.351566 -0.847038,0.84481 1.89692,1.89692 0.84704,-0.847038 z"
-       style="fill:#5df4fe;fill-opacity:1;stroke-width:0.244"
-       id="path2" />
-    <path
-       d="m 19.846205,19.940336 -0.84704,-0.84704 -1.89692,1.894692 0.847038,0.847039 z"
-       style="fill:#5df4fe;fill-opacity:1;stroke-width:0.244"
-       id="path6" />
-    <path
-       d="m 19.846205,18.246258 -0.84704,0.847038 0.84704,0.84704 0.844809,-0.84704 z"
-       style="fill:#5df4fe;fill-opacity:1;stroke-width:0.244"
-       id="path4" />
-    <path
-       d="m 19.846205,18.246258 0.844809,0.847038 1.89692,-1.89692 -0.847038,-0.84481 z"
-       style="fill:#5df4fe;fill-opacity:1;stroke-width:0.244"
-       id="path3" />
   </g>
 </svg>

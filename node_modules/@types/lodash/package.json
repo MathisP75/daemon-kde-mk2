@@ -1,0 +1,55 @@
+{
+    "name": "@types/lodash",
+    "version": "4.17.12",
+    "description": "TypeScript definitions for lodash",
+    "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/lodash",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Brian Zengel",
+            "githubUsername": "bczengel",
+            "url": "https://github.com/bczengel"
+        },
+        {
+            "name": "Ilya Mochalov",
+            "githubUsername": "chrootsu",
+            "url": "https://github.com/chrootsu"
+        },
+        {
+            "name": "AJ Richardson",
+            "githubUsername": "aj-r",
+            "url": "https://github.com/aj-r"
+        },
+        {
+            "name": "e-cloud",
+            "githubUsername": "e-cloud",
+            "url": "https://github.com/e-cloud"
+        },
+        {
+            "name": "Jack Moore",
+            "githubUsername": "jtmthf",
+            "url": "https://github.com/jtmthf"
+        },
+        {
+            "name": "Dominique Rau",
+            "githubUsername": "DomiR",
+            "url": "https://github.com/DomiR"
+        },
+        {
+            "name": "William Chelman",
+            "githubUsername": "WilliamChelman",
+            "url": "https://github.com/WilliamChelman"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/lodash"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "7fa11b6378a46458b85519e5c0b89bf4a41c0990dca97b989c45dca2e1f98bdf",
+    "typeScriptVersion": "4.8"
+}

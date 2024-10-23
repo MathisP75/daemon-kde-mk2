@@ -14,10 +14,10 @@ Here's how to install this theme manually:
 git clone https://github.com/MathisP75/daemon-kde-mk2.git
 cd daemon-kde-mk2
 cp 'Color Scheme/Daemon2.colors' $HOME/.local/share/color-schemes/
-cp Kvantum/daemon-2.0 $HOME/.config/Kvantum/
-cp 'Icon Theme/Daemon-Icons' $HOME/.local/share/icons/
-cp 'Plasma Style/Daemon-2.0' $HOME/.local/share/plasma/desktoptheme/
-cp 'Window Decorations/daemon-2.0' $HOME/.local/share/aurorae/themes/
+cp -r Kvantum/daemon-2.0 $HOME/.config/Kvantum/
+cp -r 'Icon Theme/Daemon-Icons' $HOME/.local/share/icons/
+cp -r 'Plasma Style/Daemon-2.0' $HOME/.local/share/plasma/desktoptheme/
+cp -r 'Window Decorations/daemon-2.0' $HOME/.local/share/aurorae/themes/
 cp Konsole/Daemon-2.0.colorscheme $HOME/.local/share/konsole/
 ```
 
@@ -98,14 +98,14 @@ Can be found in CSS format under the Color Scheme directory.
 - [X] Konsole color theme
 - [ ] Kate theme
 - [ ] Yakuake theme
-- [X] Plasma style (WIP)
-- [ ] Icon theme (WIP)
+- [X] Plasma style
+- [X] Icon theme
 - [X] Wallpapers
 - [ ] GTK theme
 - [ ] Splash screen
 - [ ] Sound theme
 - [ ] Firefox theme
-- [ ] VSCode theme
+- [ ] VSCode theme (WIP)
 - [ ] Global theme (WIP)
 
 ## Credits:

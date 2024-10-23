@@ -1,0 +1,59 @@
+{
+  "name": <%- JSON.stringify(name) %>,
+  "displayName": <%- JSON.stringify(displayName) %>,
+  "description": <%- JSON.stringify(description || '') %>,
+  "version": "0.0.1",
+  "engines": {
+    "vscode": <%- JSON.stringify(vsCodeEngine) %>
+  },
+  "keywords": [
+    "notebookRenderer"
+  ],
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [],
+  "main": "./out/extension/extension.js",
+  "browser": "./out/extension/extension.web.js",
+  "contributes": {
+    "notebookRenderer": [
+      {
+        "id": <%- JSON.stringify(rendererId) %>,
+        "entrypoint": "./out/client/index.js",
+        "displayName": <%- JSON.stringify(rendererDisplayName) %>,
+        "mimeTypes": <%- JSON.stringify(rendererMimeTypes) %>
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "<%= pkgManager %> run compile",
+    "compile": "webpack --mode production",
+    "lint": "eslint src",
+    "watch": "webpack --mode development --watch",
+    "pretest": "webpack --mode development && <%= pkgManager %> run lint",
+    "test": "vscode-test"
+  },
+  "devDependencies": {
+    <%- dep("@types/mocha") %>,
+    <%- dep("@types/node") %>,
+    <%- dep("@types/webpack-env") %>,
+    <%- dep("@typescript-eslint/eslint-plugin") %>,
+    <%- dep("@typescript-eslint/parser") %>,
+    <%- dep("@types/vscode-notebook-renderer") %>,
+    <%- dep("@types/vscode") %>,
+    <%- dep("css-loader") %>,
+    <%- dep("eslint") %>,
+    <%- dep("fork-ts-checker-webpack-plugin") %>,
+    <%- dep("glob") %>,
+    <%- dep("mocha") %>,
+    <%- dep("style-loader") %>,
+    <%- dep("ts-loader") %>,
+    <%- dep("typescript") %>,
+    <%- dep("vscode-notebook-error-overlay") %>,
+    <%- dep("@vscode/test-cli") %>,
+    <%- dep("@vscode/test-electron") %>,
+    <%- dep("util") %>,
+    <%- dep("webpack") %>,
+    <%- dep("webpack-cli") %>
+  }
+}

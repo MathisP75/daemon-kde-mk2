@@ -1,0 +1,21 @@
+{
+  "name": "daemon-2-0",
+  "displayName": "Daemon-2.0",
+  "description": "A Cyberpunk 2077 inspired color theme for VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Daemon-2.0",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Daemon-2.0-color-theme.json"
+      }
+    ]
+  }
+}
