@@ -107,6 +107,7 @@
 		"welcomePage.background": "#210e15",
 		"widget.border": "#fb3048",
 		"window.background": "#210e15",
+		"notifications.background":"#210E15",
 	},
 	"tokenColors": [
 		{
