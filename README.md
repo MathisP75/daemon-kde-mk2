@@ -19,6 +19,7 @@ cp -r 'Icon Theme/Daemon-Icons' $HOME/.local/share/icons/
 cp -r 'Plasma Style/Daemon-2.0' $HOME/.local/share/plasma/desktoptheme/
 cp -r 'Window Decorations/daemon-2.0' $HOME/.local/share/aurorae/themes/
 cp Konsole/Daemon-2.0.colorscheme $HOME/.local/share/konsole/
+cp -r VSCode/daemon-2.0 $HOME/.vscode-oss/extensions/
 ```
 
 ### Pling store
@@ -44,7 +45,7 @@ These are the widgets I use in my setup
 * [Compact Pager](https://github.com/tilorenz/compact_pager)
 
 ## Recommended configuration
-* Fonts: 
+* Fonts (get [here](https://fonts.google.com/specimen/Rajdhani) and [here](https://fonts.google.com/specimen/Orbitron)): 
 	- General: Rajdhani Medium 10pt
 	- Fixed width: Hack 10pt
 	- Small: Rajdhani Medium 8pt
