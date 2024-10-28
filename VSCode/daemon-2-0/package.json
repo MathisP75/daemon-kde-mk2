@@ -1,7 +1,7 @@
 {
   "name": "daemon-2-0",
-  "displayName": "Daemon-2.0",
-  "description": "A Cyberpunk 2077 inspired color theme for VSCode",
+  "displayName": "daemon-2.0",
+  "description": "A Cyberpunk 2077 inspired theme.",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.94.0"
