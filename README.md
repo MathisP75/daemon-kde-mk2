@@ -107,6 +107,7 @@ Can be found in CSS format under the Color Scheme directory.
 - [ ] Sound theme
 - [ ] Firefox theme
 - [ ] VSCode theme (WIP)
+- [ ] Intellij theme (WIP)
 - [ ] Global theme (WIP)
 
 ## Credits:
