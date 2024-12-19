@@ -1,21 +1,24 @@
 {
-  "name": "daemon-2-0",
-  "displayName": "daemon-2.0",
-  "description": "A Cyberpunk 2077 inspired theme.",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.94.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Daemon-2.0",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Daemon-2.0-color-theme.json"
-      }
-    ]
-  }
+	"name": "daemon-2-0",
+	"displayName": "daemon-2.0",
+	"description": "A Cyberpunk 2077 inspired theme.",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.94.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Daemon-2.0",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Daemon-2.0-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"size": 30414
+	}
 }
