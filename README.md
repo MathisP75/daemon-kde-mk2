@@ -19,7 +19,7 @@ cp -r 'Icon Theme/Daemon-Icons' $HOME/.local/share/icons/
 cp -r 'Plasma Style/Daemon-2.0' $HOME/.local/share/plasma/desktoptheme/
 cp -r 'Window Decorations/daemon-2.0' $HOME/.local/share/aurorae/themes/
 cp Konsole/Daemon-2.0.colorscheme $HOME/.local/share/konsole/
-cp -r VSCode/daemon-2.0 $HOME/.vscode-oss/extensions/
+cp -r VSCode/daemon-2-0 $HOME/.vscode-oss/extensions/
 cp Kitty/Daemon-2.0.conf $HOME/.config/kitty/
 ```
 
