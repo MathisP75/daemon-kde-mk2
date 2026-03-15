@@ -32,6 +32,9 @@ I have also uploaded the themes to the Pling store, so you can install them thro
 * [Icon theme](https://www.pling.com/p/2213960/)
 * [Konsole color scheme](https://www.pling.com/p/2214176/)
 
+### Neovim
+If you use Neovim, a compatible theme can be found at [Daemon MK2 Neovim](https://github.com/Zoestra/Daemon-MK2-Neovim), courtesy of Zoestra
+
 ### Widgets
 These are the widgets I use in my setup
 
@@ -71,10 +74,6 @@ The "D" icon for the application launcher can be found under the Assets director
 
 ## Wallpaper
 The wallpaper has been made to fit my 2560 x 1600 laptop screen at 125% scaling. In order for it to look good, you might have to adjust it to fit your screen. You can find the SVG file in the wallpaper directory.
-
-### Neovim
-
-If you use Neovim, a compatible theme can be found at [Daemon MK2 Neovim](https://github.com/Zoestra/Daemon-MK2-Neovim), courtesy of Zoestra
 
 ## Color palette
 Can be found in CSS format under the Color Scheme directory.
