@@ -32,6 +32,9 @@ I have also uploaded the themes to the Pling store, so you can install them thro
 * [Icon theme](https://www.pling.com/p/2213960/)
 * [Konsole color scheme](https://www.pling.com/p/2214176/)
 
+### Neovim
+If you use Neovim, a compatible theme can be found at [Daemon MK2 Neovim](https://github.com/Zoestra/Daemon-MK2-Neovim), courtesy of Zoestra
+
 ### Widgets
 These are the widgets I use in my setup
 
