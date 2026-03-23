@@ -116,6 +116,12 @@
 		"menu.foreground": "#5df4fe",
 		"menu.border": "#ff5048",
 		"menu.separatorBackground": "#ff5048",
+		"diffEditor.insertedLineBackground": "#28C77540", //modified QZ
+		"diffEditor.insertedTextBackground": "#28C77540", //modified QZ
+		"diffEditor.removedLineBackground": "#FF504840", //modified QZ
+		"diffEditor.removedTextBackground": "#FF504840", //modified QZ
+		"diffEditor.unchangedLineBackground": "#210E15", //modified QZ
+		"diffEditor.unchangedCodeBackground": "#210E15", //modified QZ
 
 
 	}, 
@@ -126,7 +132,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#57575b",
+				"foreground": "#909094", //modified QZ
 				"fontStyle": "italic"
 			}
 		},
@@ -680,13 +686,19 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#57575B"
+				"foreground": "#909094" //modified QZ
 			}
 		},
 		{
 			"scope": "punctuation.definition.comment",
 			"settings": {
-				"foreground": "#57575B"
+				"foreground": "#909094" //modified QZ
+			}
+		},
+		{
+			"scope": ["meta.diff.inserted comment", "meta.diff.inserted punctuation.definition.comment"],
+			"settings": {
+				"foreground": "#909094" //modified QZ
 			}
 		},
 		{
