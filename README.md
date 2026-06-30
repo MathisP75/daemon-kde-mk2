@@ -23,6 +23,8 @@ cp -r VSCode/daemon-2-0 $HOME/.vscode-oss/extensions/
 cp Kitty/Daemon-2.0.conf $HOME/.config/kitty/
 ```
 
+WARNING! This repository contains a user-submitted installation script created using an LLM. I recommend installing using the other methods, but if you wish to use it, please make sure you know what you are doing. I am not responsible to any harm it could cause to your system. 
+
 ### Pling store
 I have also uploaded the themes to the Pling store, so you can install them through the system settings.
 * [Window decorations](https://www.pling.com/p/2213955/)
